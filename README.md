@@ -1,5 +1,4 @@
 # **Luca De Gennaro Aquino**
-## **PhD student in Mathematical Finance**
 
 **Grenoble Ecole de Management**
 
@@ -10,6 +9,14 @@
 **38000 Grenoble, France**
 
 **luca.degennaroaquino@grenoble-em.com**
+
+### PERSONAL INFORMATION	
+- Date and place of birth: 16/07/1991, Sant’Agnello, Italy.
+
+- Citizenship : Italian.
+
+- Phone: +33 0767387586.
+
 
 ### Current position
 - **Grenoble Ecole de Managament, France - Department of Law, Accounting and Finance**
