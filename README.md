@@ -37,7 +37,7 @@
 
     Advisor: Prof. József Lörinczi
 
-    Thesis : *Long-Time Behaviour of Feller Processes* (awarded as the best thesis of 2017 in any area of Mathematical Sciences)
+    Thesis : *Long-Time Behaviour of Feller Processes* (awarded as the best thesis of academic year 2016/2017 in any area of Mathematical Sciences)
 
 
 -	**University of Rome “La Sapienza”, Italy - Faculty of Economics**
