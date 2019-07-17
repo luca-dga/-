@@ -1,16 +1,15 @@
 # Luca De Gennaro Aquino
 ## PhD student in Mathematical Finance 
 
-Grenoble Ecole de Management
+Grenoble Ecole de Management 
+
 Department of Accounting, Law and Finance
+
 12 Rue Pierre Semard
+
 38000 Grenoble, France
+
 luca.degennaroaquino@grenoble-em.com
-
-
-You can use the [editor on GitHub](https://github.com/luca-dga/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
