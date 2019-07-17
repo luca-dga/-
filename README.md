@@ -20,8 +20,11 @@
 
 ### Current position
 - **Grenoble Ecole de Managament, France - Department of Law, Accounting and Finance**
+
     **Ph.D. student in Mathematical Finance, since 09/2017**
-    Advisor: Prof. Carole Bernard.
+    
+    Advisor: Prof. Carole Bernard
+    
     Research interests: pricing and hedging of path-dependent/multivariate payoffs; computational finance, neural networks; utility theory
 
 
