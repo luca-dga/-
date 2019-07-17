@@ -1,3 +1,5 @@
+![Alt text](C:/Users/degen223642/Desktop/Else/Luca_Roccaraso.png)
+
 # **Luca De Gennaro Aquino**
 
 **Grenoble Ecole de Management**
