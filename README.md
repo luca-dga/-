@@ -17,9 +17,10 @@
 
  **Master of Science in Mathematical Finance (with Distinction), 09/2016 - 09/2017.**
 
-Advisor: Prof. József Lörinczi.
+ Advisor: Prof. József Lörinczi.
 
-Thesis : Long-Time Behaviour of Feller Processes.
+ Thesis : Long-Time Behaviour of Feller Processes.
+
 
 
 -	**University of Rome “La Sapienza”, Italy - Faculty of Economics**
