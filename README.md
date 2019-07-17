@@ -1,10 +1,10 @@
-### Luca De Gennaro Aquino
+# Luca De Gennaro Aquino
 ## PhD student in Mathematical Finance 
 
-# Grenoble Ecole de Management
-# 12 Rue Pierre Semard
-# 38000 Grenoble, France
-# luca.degennaroaquino@grenoble-em.com
+### Grenoble Ecole de Management
+### 12 Rue Pierre Semard
+### 38000 Grenoble, France
+### luca.degennaroaquino@grenoble-em.com
 
 You can use the [editor on GitHub](https://github.com/luca-dga/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
