@@ -13,9 +13,12 @@
 
 
 ### Education
--	*Loughborough University, United Kingdom - Department of Mathematical Sciences*
-*Master of Science in Mathematical Finance (with Distinction), 09/2016 - 09/2017.*
+- **Loughborough University, United Kingdom - Department of Mathematical Sciences**
+
+&nbsp **Master of Science in Mathematical Finance (with Distinction), 09/2016 - 09/2017.**
+
 Advisor: Prof. József Lörinczi.
+
 Thesis : Long-Time Behaviour of Feller Processes.
 
 
