@@ -10,6 +10,8 @@
 
 **luca.degennaroaquino@grenoble-em.com**
 
+----------------------------------------------------------------------------------------------------------------------
+
 ### Personal information
 - Date and place of birth: 16/07/1991, Sant’Agnello, Italy.
 
@@ -81,8 +83,31 @@
 []
 
 
+----------------------------------------------------------------------------------------------------------------------
 
 
+### Other miscellaneous information
+
+- Languake skills
+
+    Italian (native), English (fluent), French (intermediate)
+    
+- Programming skills
+
+    Python, Matlab, SPSS, Stata
+    
+- Work experience
+
+    -Catering assistant (potwasher, barman waiter), Berry Recruitment, Loghborough, United Kingdom, 01/2017 - 09/2017
+    
+    -Waiter, Restaurant "108 World Buet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017
+    
+    -Lifeguard, Swimming pool “La Lisca, Piano di Sorrento, Italy, 06/2007 - 08/2009
+
+- Passions and hobbies
+
+    I am an enthusiast fine diner and food traveler. Blues rock and jazz are my sources of inspirations, reading and running my escapisms. 
+    My biggest dreams are to become a piano player and a number theorists.
 
 
 
