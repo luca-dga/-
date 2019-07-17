@@ -53,16 +53,16 @@
     
     
 ### Publications
-- L. De Gennaro Aquino, C. Bernard, Semi-analytical prices for lookback and barrier options under the Heston model, Decisions in Economics and Finance, forthcoming.
+- L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, forthcoming.
 
 ### Working papers
-- L. De Gennaro Aquino, C. Bernard, Bounds on multi-asset derivatives via neural networks.
+- L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*
 
-- C. Bernard, L. De Gennaro Aquino, S. Vanduffel, Multivariate expected utility maximization and improved multi-asset allocation.
+- C. Bernard, L. De Gennaro Aquino, S. Vanduffel, *Multivariate expected utility maximization and improved multi-asset allocation*
 
-- C. Bernard, L. De Gennaro Aquino, S. Ohadi, Rationalising the demand for skewness.
+- C. Bernard, L. De Gennaro Aquino, S. Ohadi, *Rationalising the demand for skewness*
 
-- C. Bernard, L. De Gennaro Aquino, Optimal annuities demand for general risk averse investors.
+- C. Bernard, L. De Gennaro Aquino, *Optimal annuities demand for general risk averse investors*
 
 
 
