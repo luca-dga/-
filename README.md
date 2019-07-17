@@ -47,7 +47,7 @@
 
     Advisor: Prof. Maria Chiarolla
 
-    Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-tactor interest rate model: analytical characterization and Monte-Carlo valuation*
+    Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model: analytical characterization and Monte-Carlo valuation*
 
     **Bachelor of Science in Banking, Insurance and Financial Markets**, 09/2010 - 10/2013
 
