@@ -23,7 +23,7 @@
 ### **Current position**
 - **Grenoble Ecole de Managament, France - Department of Law, Accounting and Finance**
 
-    **Ph.D. student in Mathematical Finance, since 09/2017**
+    **Ph.D. student in Mathematical Finance**, since 09/2017
     
     Advisor: Prof. Carole Bernard
     
@@ -33,7 +33,7 @@
 ### **Education**
 - **Loughborough University, United Kingdom - Department of Mathematical Sciences**
 
-    **Master of Science in Mathematical Finance (with Distinction)**, 09/2016 - 09/2017
+    **Master of Science in Mathematical Finance** (with Distinction), 09/2016 - 09/2017
 
     Advisor: Prof. József Lörinczi
 
@@ -42,7 +42,7 @@
 
 -	**University of Rome “La Sapienza”, Italy - Faculty of Economics**
 
-    **Master of Science in Finance and Insurance (with Honors)**, 10/2013 - 07/2016
+    **Master of Science in Finance and Insurance** (with Honors), 10/2013 - 07/2016
 
     Advisor: Prof. Maria Chiarolla
 
@@ -55,6 +55,7 @@
     
 ### **Publications**
 - L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, forthcoming.
+
 
 ### **Working papers**
 - L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*
