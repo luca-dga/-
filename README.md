@@ -37,7 +37,7 @@
 
     Advisor: Prof. József Lörinczi
 
-    Thesis : *Long-Time Behaviour of Feller Processes* (awarded as the best thesis of academic year 2016/2017 in any area of Mathematical Sciences)
+    Thesis : *Long-time behaviour of Feller processes* (awarded as the best thesis of academic year 2016/2017 in any area of Mathematical Sciences)
 
 
 -	**University of Rome “La Sapienza”, Italy - Faculty of Economics**
@@ -46,7 +46,7 @@
 
     Advisor: Prof. Maria Chiarolla
 
-    Thesis: *Credit-Linked Notes with Counterparty Risk under the Generalised Fong-Vasicek Two-Factor Interest Rate Model: Analytical Characterization and Monte-Carlo Valuation*
+    Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-tactor interest rate model: analytical characterization and Monte-Carlo valuation*
 
     **Bachelor of Science in Banking, Insurance and Financial Markets**, 09/2010 - 10/2013
 
