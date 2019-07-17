@@ -101,9 +101,9 @@
 
     - Catering assistant (potwasher, barman, waiter), Berry Recruitment, Loghborough, United Kingdom, 01/2017 - 09/2017
     
-    - Waiter, Restaurant "108 World Buet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017
+    - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017
     
-    - Lifeguard, Swimming pool “La Lisca, Piano di Sorrento, Italy, 06/2007 - 08/2009
+    - Lifeguard, swimming pool “La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009
 
 - Passions and hobbies
 
