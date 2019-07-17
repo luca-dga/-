@@ -2,9 +2,13 @@
 ## PhD student in Mathematical Finance 
 
 Grenoble Ecole de Management
+
 Department of Accounting, Law and Finance
+
 12 Rue Pierre Semard
+
 38000 Grenoble, France
+
 luca.degennaroaquino@grenoble-em.com
 
 
