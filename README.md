@@ -38,7 +38,7 @@
 
     Advisor: Prof. József Lörinczi
 
-    Thesis : *Long-time behaviour of Feller processes* (awarded as the best thesis of academic year 2016/2017 in any area of Mathematical Sciences)
+    Thesis : *Long-time behaviour of Feller processes* (awarded as the best thesis of the 2016/2017 academic year in any area of Mathematical Sciences)
 
 
 -	**University of Rome “La Sapienza”, Italy - Faculty of Economics**
@@ -50,8 +50,6 @@
     Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model: analytical characterization and Monte-Carlo valuation*
 
     **Bachelor of Science in Banking, Insurance and Financial Markets**, 09/2010 - 10/2013
-
-    Advisor: Prof. Marina Brogi
     
     
 ### **Publications**
