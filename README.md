@@ -25,7 +25,7 @@
     
     Advisor: Prof. Carole Bernard
     
-    Research interests: pricing and hedging of path-dependent/multivariate payoffs; computational finance, neural networks; utility theory
+    Research interests: computational finance, neural networks; risk measurement; pricing and hedging of exotic derivatives; utility theory
 
 
 ### Education
@@ -65,7 +65,19 @@
 - C. Bernard, L. De Gennaro Aquino, *Optimal annuities demand for general risk averse investors*
 
 
+### Teaching experience
+- Grenoble Ecole de Managament
+   - Corporate Governance, 01/2019 - 02/2019
+   - Fundamentals of Excel and Statistics, 09/2019
+   - International Financial Risk Management, 11/2019 - 12/2019
+   - International Financial Risk Management, 04/2020
 
+### Talks and posters
+- SIAM Conference on Financial Mathematics and Engineering, University of Toronto, Canada, 06/2019
+
+- Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019
+
+## Visiting positions
 
 
 
