@@ -88,7 +88,7 @@
 
 ### **Other miscellaneous information**
 
-- Languake skills
+- Language skills
 
     Italian (native), English (fluent), French (intermediate)
     
