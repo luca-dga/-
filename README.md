@@ -10,7 +10,7 @@
 
 **luca.degennaroaquino@grenoble-em.com**
 
-### PERSONAL INFORMATION	
+### Personal information
 - Date and place of birth: 16/07/1991, Sant’Agnello, Italy.
 
 - Citizenship : Italian.
@@ -77,8 +77,8 @@
 
 - Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019
 
-## Visiting positions
-
+### Visiting positions
+[]
 
 
 
