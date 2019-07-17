@@ -1,7 +1,7 @@
 
-# **Address**
+### **Address**
 
-- Grenoble Ecole de Management
+    Grenoble Ecole de Management
 
     Department of Accounting, Law and Finance
 
