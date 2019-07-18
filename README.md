@@ -15,9 +15,10 @@
 
 <a href="#other-miscellaneous-information">Other miscellaneous information</a> |
 
+<hr>
 </div>     
 
-<hr>
+
 
 ### **Address**
 
