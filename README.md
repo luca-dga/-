@@ -15,9 +15,11 @@
 
 <a href="#other-miscellaneous-information">Other miscellaneous information</a> |
 
-</div>       
+</div>     
 
-## **Address**
+<hr>
+
+### **Address**
 
 **Grenoble Ecole de Management**
 
