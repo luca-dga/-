@@ -90,7 +90,7 @@
 <hr>
 
 ### **Teaching experience**
-- Grenoble Ecole de Managament
+- Grenoble Ecole de Management
    - Corporate Governance, 01/2019 - 02/2019
    - Fundamentals of Excel and Statistics, 09/2019
    - International Financial Risk Management, 11/2019 - 12/2019
