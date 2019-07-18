@@ -1,4 +1,5 @@
 <div>
+   
 <a href="#personal-information">Personal information</a>
    
 <a href="#education">Current position</a>
@@ -12,6 +13,7 @@
 <a href="#talks-and-posters">Talks and posters</a>
 
 <a href="#other-miscellaneous-information">Other miscellaneous information</a>
+
 </div>       
 
 ## **Address**
