@@ -25,11 +25,11 @@
 
 **12 Rue Pierre Semard**
 
-**38000 Grenoble, France*
+**38000 Grenoble, France**
 
 **Office: F813b**
 
-**E-mail: luca.degennaroaquino@grenoble-em.com**
+**E-mail: <luca.degennaroaquino@grenoble-em.com>**
 
 <hr>
 
