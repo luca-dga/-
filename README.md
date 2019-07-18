@@ -19,7 +19,7 @@
 
 <hr width="67%">
 
-### **Address**
+## **Address**
 
 **Grenoble Ecole de Management**
 
@@ -33,7 +33,7 @@
 
 <hr>
 
-### **Personal information**
+## **Personal information**
 - Date and place of birth: 16/07/1991, Sant’Agnello, Italy
 
 - Citizenship : Italian
@@ -42,7 +42,7 @@
 
 <hr>
 
-### **Current position**
+## **Current position**
 - **Grenoble Ecole de Managament, France - Department of Law, Accounting and Finance**
 
     **Ph.D. student in Mathematical Finance**, since 09/2017
@@ -53,7 +53,7 @@
 
 <hr>
 
-### **Education**
+## **Education**
 - **Loughborough University, United Kingdom - Department of Mathematical Sciences**
 
     **Master of Science in Mathematical Finance** (with Distinction), 09/2016 - 09/2017
@@ -74,11 +74,11 @@
    
 <hr>
 
-### **Publications**
+## **Publications**
 - L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, forthcoming
 
 
-### **Working papers**
+## **Working papers**
 - L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*
 
 - C. Bernard, L. De Gennaro Aquino, S. Vanduffel, *Multivariate expected utility maximization and improved multi-asset allocation*
@@ -89,7 +89,7 @@
 
 <hr>
 
-### **Teaching experience**
+## **Teaching experience**
 - Grenoble Ecole de Management
    - Corporate Governance, 01/2019 - 02/2019
    - Fundamentals of Excel and Statistics, 09/2019
@@ -98,29 +98,29 @@
 
 <hr>
 
-### **Talks and posters**
+## **Talks and posters**
 - SIAM Conference on Financial Mathematics and Engineering, University of Toronto, Canada, 06/2019
 
 - Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019
 
 <hr>
 
-### **Visiting positions**
+## **Visiting positions**
 []
 
 <hr>
 
-### **Other miscellaneous information**
+## **Other miscellaneous information**
 
-- ##### **Language skills**
+- #### **Language skills**
 
     Italian (native), English (fluent), French (intermediate)
     
-- ##### **Programming skills**
+- #### **Programming skills**
 
     Python, Matlab, SPSS, Stata
     
-- ##### **Work experience**
+- #### **Work experience**
 
     - Catering assistant (potwasher, barman, waiter), Berry Recruitment, Loghborough, United Kingdom, 01/2017 - 09/2017
     
@@ -128,7 +128,7 @@
     
     - Lifeguard, swimming pool “La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009
 
-- ##### **Passions and hobbies**
+- #### **Passions and hobbies**
 
     I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspirations, reading and running my escapisms. My biggest dreams are to become a piano player and a number theorists.
 
