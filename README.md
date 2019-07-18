@@ -12,6 +12,8 @@
 **luca.degennaroaquino@grenoble-em.com**
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+[Link to Header](#personal-information)
+[Link to Header](#current-position)
 
 ### **Personal information**
 - Date and place of birth: 16/07/1991, Sant’Agnello, Italy
