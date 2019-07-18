@@ -1,23 +1,4 @@
-<div>
-[Personal information](#personal-information)
-
-[Current position](#current-position)
-
-[Education](#education)
-
-[Publications](#publications)
-
-[Teaching experience](#teaching-experience)
-
-[Visiting positions](#visiting-positions)
-
-[Talks and poster](#talks-and-posters)
-
-[Other miscellaneous information](#other-miscellaneous-information)
-align="left"
-</div>
-
-### **Address**
+## **Address**
 
 **Grenoble Ecole de Management**
 
