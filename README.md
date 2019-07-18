@@ -1,3 +1,29 @@
+<div>
+ id="navigation"
+   <a href="#personal-information">Personal information</a>
+   <a href="#personal-information">Personal information</a>
+<a href="#personal-information">Personal information</a>
+<a href="#personal-information">Personal information</a>
+   <a href="#personal-information">Personal information</a>
+   align = "right"
+</div>
+
+[Current position](#current-position)
+
+[Education](#education)
+
+[Publications](#publications)
+
+[Teaching experience](#teaching-experience)
+
+[Visiting positions](#visiting-positions)
+
+[Talks and poster](#talks-and-posters)
+
+[Other miscellaneous information](#other-miscellaneous-information)
+
+       
+
 ## **Address**
 
 **Grenoble Ecole de Management**
