@@ -112,11 +112,15 @@
 
 ### **Other miscellaneous information**
 
-- Language skills: Italian (native), English (fluent), French (intermediate)
+- ####Language skills
+
+    Italian (native), English (fluent), French (intermediate)
     
-- Programming skills: Python, Matlab, SPSS, Stata
+- ####Programming skills
+
+    Python, Matlab, SPSS, Stata
     
-- Work experience
+- ####Work experience
 
     - Catering assistant (potwasher, barman, waiter), Berry Recruitment, Loghborough, United Kingdom, 01/2017 - 09/2017
     
@@ -124,5 +128,7 @@
     
     - Lifeguard, swimming pool “La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009
 
-- Passions and hobbies: I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspirations, reading and running my escapisms. My biggest dreams are to become a piano player and a number theorists.
+- ####Passions and hobbies
+
+    I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspirations, reading and running my escapisms. My biggest dreams are to become a piano player and a number theorists.
 
