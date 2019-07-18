@@ -15,10 +15,9 @@
 
 <a href="#other-miscellaneous-information">Other miscellaneous information</a> |
 
-<hr>
 </div>     
 
-
+<hr width="70%">
 
 ### **Address**
 
@@ -32,7 +31,6 @@
 
 **luca.degennaroaquino@grenoble-em.com**
 
-<hr>
 ### **Personal information**
 - Date and place of birth: 16/07/1991, Sant’Agnello, Italy
 
