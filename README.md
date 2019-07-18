@@ -17,7 +17,7 @@
 
 </div>     
 
-<hr width="70%">
+<hr width="67%">
 
 ### **Address**
 
@@ -31,6 +31,8 @@
 
 **luca.degennaroaquino@grenoble-em.com**
 
+<hr>
+
 ### **Personal information**
 - Date and place of birth: 16/07/1991, Sant’Agnello, Italy
 
@@ -38,6 +40,7 @@
 
 - Phone: +33 0767387586
 
+<hr>
 
 ### **Current position**
 - **Grenoble Ecole de Managament, France - Department of Law, Accounting and Finance**
@@ -48,6 +51,7 @@
     
     Research interests: computational finance, neural networks; risk measurement; pricing and hedging of exotic derivatives; utility theory
 
+<hr>
 
 ### **Education**
 - **Loughborough University, United Kingdom - Department of Mathematical Sciences**
@@ -58,7 +62,6 @@
 
     Thesis : *Long-time behaviour of Feller processes* (awarded as the best thesis of the 2016/2017 academic year in any area of Mathematical Sciences)
 
-
 -	**University of Rome “La Sapienza”, Italy - Faculty of Economics**
 
     **Master of Science in Finance and Insurance** (with Honors), 10/2013 - 07/2016
@@ -67,9 +70,10 @@
 
     Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model: analytical characterization and Monte-Carlo valuation*
 
-    **Bachelor of Science in Banking, Insurance and Financial Markets**, 09/2010 - 10/2013
-    
-    
+    **Bachelor of Science in Banking, Insurance and Financial Markets**, 09/2010 - 10/2013 
+   
+<hr>
+
 ### **Publications**
 - L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, forthcoming
 
@@ -83,6 +87,7 @@
 
 - C. Bernard, L. De Gennaro Aquino, *Optimal annuities demand for general risk averse investors*
 
+<hr>
 
 ### **Teaching experience**
 - Grenoble Ecole de Managament
@@ -91,16 +96,19 @@
    - International Financial Risk Management, 11/2019 - 12/2019
    - International Financial Risk Management, 04/2020
 
+<hr>
+
 ### **Talks and posters**
 - SIAM Conference on Financial Mathematics and Engineering, University of Toronto, Canada, 06/2019
 
 - Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019
 
+<hr>
+
 ### **Visiting positions**
 []
 
 <hr>
-
 
 ### **Other miscellaneous information**
 
