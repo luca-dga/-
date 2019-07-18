@@ -3,7 +3,7 @@
    
 <a href="#education">Current position</a>
 
-<a href="#publications"-information">Publications</a>
+<a href="#publications">Publications</a>
                                     
 <a href="#teaching-experience">Teaching experience</a>
 
@@ -26,7 +26,7 @@
 
 **luca.degennaroaquino@grenoble-em.com**
 
----------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 ### **Personal information**
 - Date and place of birth: 16/07/1991, Sant’Agnello, Italy
 
@@ -95,8 +95,7 @@
 ### **Visiting positions**
 []
 
-
----------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 
 
 ### **Other miscellaneous information**
