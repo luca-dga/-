@@ -1,17 +1,4 @@
-
-### **Address**
-
-**Grenoble Ecole de Management**
-
-**Department of Accounting, Law and Finance**
-
-**12 Rue Pierre Semard**
-
-**38000 Grenoble, France**
-
-**luca.degennaroaquino@grenoble-em.com**
-
----------------------------------------------------------------------------------------------------------------------------------------
+<div>
 [Personal information](#personal-information)
 
 [Current position](#current-position)
@@ -27,9 +14,22 @@
 [Talks and poster](#talks-and-posters)
 
 [Other miscellaneous information](#other-miscellaneous-information)
+align="left"
+</div>
 
+### **Address**
 
+**Grenoble Ecole de Management**
 
+**Department of Accounting, Law and Finance**
+
+**12 Rue Pierre Semard**
+
+**38000 Grenoble, France**
+
+**luca.degennaroaquino@grenoble-em.com**
+
+---------------------------------------------------------------------------------------------------------------------------------------
 ### **Personal information**
 - Date and place of birth: 16/07/1991, Sant’Agnello, Italy
 
