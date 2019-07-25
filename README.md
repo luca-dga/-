@@ -7,7 +7,7 @@
 
 <a href="#education">Current position</a> |
 
-<a href="#publications">Publications</a> 
+<a href="#publications">Publications</a> |
                                     
 <a href="#teaching-experience">Teaching experience</a> |
 
