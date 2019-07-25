@@ -2,8 +2,6 @@
 <a href="#address">Address</a> |
    
 <a href="#personal-information">Personal information</a> |
-
-<a href="#external-links">External links</a> |
    
 <a href="#personal-information">Personal information</a> |<a href="#education">Current position</a> |
 
@@ -16,6 +14,8 @@
 <a href="#talks-and-posters">Talks and posters</a> |
 
 <a href="#other-miscellaneous-information">Other miscellaneous information</a> |
+
+<a href="#external-links">External links</a> |
 
 </div>     
 
