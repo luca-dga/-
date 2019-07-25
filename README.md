@@ -35,7 +35,7 @@
 
 **E-mail: <luca.degennaroaquino@grenoble-em.com>**
 
-**ORCID: <https://orcid.org/0000-0001-5377-5385**
+**ORCID: <https://orcid.org/0000-0001-5377-5385>**
 
 <hr>
 
