@@ -17,7 +17,7 @@
 
 <a href="#other-miscellaneous-information">Other miscellaneous information</a> |
 
-<a href="#external-links">External links</a> |
+<a href="#external-links">External links</a> 
 
 </div>     
 
