@@ -140,5 +140,5 @@
     I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspirations, reading and running my escapisms. My biggest dreams are to become a piano player and a number theorist.
 
 ### **External links**
-<a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google scholar</a> | 
-<a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">Research gate</a> 
+<a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google Scholar</a> | 
+<a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> 
