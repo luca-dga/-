@@ -56,7 +56,7 @@
     
     Advisor: Prof. Carole Bernard
     
-    Research interests: computational finance, neural networks; risk measurement; pricing and hedging of exotic derivatives; utility theory
+    Research interests: computational finance, neural networks; risk measurement; pricing and hedging of exotic derivatives; decision theory
 
 <hr>
 
