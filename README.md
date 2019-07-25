@@ -139,4 +139,4 @@
 
 ### **External links**
 <a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google scholar</a> | 
-<a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">Research gate</a> |
+<a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">Research gate</a> 
