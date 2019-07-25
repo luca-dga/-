@@ -3,7 +3,9 @@
    
 <a href="#personal-information">Personal information</a> |
    
-<a href="#personal-information">Personal information</a> |<a href="#education">Current position</a> |
+<a href="#personal-information">Personal information</a> |
+
+<a href="#education">Current position</a> |
 
 <a href="#publications">Publications</a> 
                                     
