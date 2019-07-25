@@ -84,6 +84,7 @@
 ### **Publications**
 - L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, forthcoming
 
+<hr>
 
 ### **Working papers**
 - L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*
@@ -138,6 +139,8 @@
 - #### **Passions and hobbies**
 
     I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspirations, reading and running my escapisms. My biggest dreams are to become a piano player and a number theorist.
+
+<hr>
 
 ### **External links**
 <a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google Scholar</a> | 
