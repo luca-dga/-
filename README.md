@@ -2,10 +2,12 @@
 <a href="#address">Address</a> |
    
 <a href="#personal-information">Personal information</a> |
-   
-<a href="#education">Current position</a> |
 
-<a href="#publications">Publications</a> |
+<a href="#external-links">External links</a> |
+   
+<a href="#personal-information">Personal information</a> |<a href="#education">Current position</a> |
+
+<a href="#publications">Publications</a> 
                                     
 <a href="#teaching-experience">Teaching experience</a> |
 
@@ -31,6 +33,8 @@
 
 **E-mail: <luca.degennaroaquino@grenoble-em.com>**
 
+**ORCID iD: orcid.org/0000-0001-5377-5385**
+
 <hr>
 
 ### **Personal information**
@@ -41,6 +45,7 @@
 - Phone: +33 0767387586
 
 <hr>
+
 
 ### **Current position**
 - **Grenoble Ecole de Managament, France - Department of Law, Accounting and Finance**
@@ -106,7 +111,7 @@
 <hr>
 
 ### **Visiting positions**
-[]
+- University of Konstanz, Germany - Department of Mathematics, 09/2019 - 10/2019, invited by Prof. Michael Kupper and Stephan Eckstein
 
 <hr>
 
@@ -132,3 +137,6 @@
 
     I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspirations, reading and running my escapisms. My biggest dreams are to become a piano player and a number theorist.
 
+### **External links**
+<a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google scholar</a> | 
+<a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">Research gate</a> |
