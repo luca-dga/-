@@ -21,7 +21,7 @@
 
 </div>     
 
-<hr width="70%">
+<hr width="75%">
 
 ### **Address**
 
