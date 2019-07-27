@@ -2,18 +2,20 @@
 <a href="#address">Address</a> |
    
 <a href="#personal-information">Personal information</a> |
-   
-<a href="#personal-information">Personal information</a> |
 
 <a href="#education">Current position</a> |
 
+<a href="#education">Education</a> |
+
 <a href="#publications">Publications</a> |
+
+<a href="#working-papers">Working papers</a> |
                                     
 <a href="#teaching-experience">Teaching experience</a> |
 
-<a href="#visiting-positions">Visiting positions</a> |
-
 <a href="#talks-and-posters">Talks and posters</a> |
+
+<a href="#visiting-positions">Visiting positions</a> |
 
 <a href="#other-miscellaneous-information">Other miscellaneous information</a> |
 
