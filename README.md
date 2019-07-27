@@ -129,7 +129,7 @@
 
 - #### **Passions and hobbies**
 
-    I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspirations, reading and running my escapisms. My biggest dreams are to become a piano player and a number theorist.
+    I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running my escapisms. My biggest dreams are to become a piano player and a number theorist.
 
 <hr>
 
