@@ -1,3 +1,5 @@
+<div>
+
 <a href="#address">Address</a> | <a href="#personal-information">Personal information</a> | 
 <a href="#education">Current position</a> | <a href="#education">Education</a> |
 
@@ -7,7 +9,7 @@
 <a href="#visiting-positions">Visiting positions</a> | <a href="#other-miscellaneous-information">Other miscellaneous information</a> |
 <a href="#external-links">External links</a> 
   
-
+</div>
 <hr width="75%">
 
 ### **Address**
