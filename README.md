@@ -8,7 +8,7 @@
   <a href="#teaching-experience">Teaching experience</a> | <a href="#talks-and-posters">Talks and posters</a> |
   </div>
   <div>
-  <a href="#visiting-positions">Visiting positions</a> |<a href="#other-miscellaneous-information">Other miscellaneous information</a> |
+  <a href="#visiting-positions">Visiting positions</a> | <a href="#other-miscellaneous-information">Other miscellaneous information</a> |
   <a href="#external-links">External links</a> 
   </div>
 </div>
