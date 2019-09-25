@@ -58,7 +58,7 @@
 
     Advisor: Prof. József Lörinczi
 
-    Thesis : *Long-time behaviour of Feller processes* (awarded as the best thesis of the 2016/2017 academic year in any area of Mathematical Sciences)
+    Thesis : *Long-time behaviour of Feller processes* (awarded as best thesis of 2016/2017 academic year in Mathematical Sciences)
 
 -	**University of Rome “La Sapienza”, Italy - Faculty of Economics**
 
@@ -92,6 +92,7 @@
 - Grenoble Ecole de Management
    - Corporate Governance, 01/2019 - 02/2019
    - Fundamentals of Excel and Statistics, 09/2019
+   - Fundamentals of Excel and Statistics, 10/2019
    - International Financial Risk Management, 11/2019 - 12/2019
    - International Financial Risk Management, 04/2020
 
@@ -121,15 +122,15 @@
     
 - #### **Work experience**
 
-    - Catering assistant (potwasher, barman, waiter), Berry Recruitment, Loghborough, United Kingdom, 01/2017 - 09/2017
+    - Catering assistant / Kitchen porter, Berry Recruitment, Loghborough, United Kingdom, 01/2017 - 09/2017
     
-    - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017
+    - Waiter / Potwasher, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017
     
     - Lifeguard, swimming pool "La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009
 
 - #### **Passions and hobbies**
 
-    I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running my escapisms. My biggest dreams are to become a piano player and a number theorist.
+    I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dreams are to become a piano player and a number theorist.
 
 <hr>
 
