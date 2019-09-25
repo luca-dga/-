@@ -124,7 +124,7 @@
 
     - Catering assistant / Kitchen porter, Berry Recruitment, Loghborough, United Kingdom, 01/2017 - 09/2017
     
-    - Waiter / Potwasher, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017
+    - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017
     
     - Lifeguard, swimming pool "La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009
 
