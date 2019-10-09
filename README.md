@@ -47,7 +47,7 @@
     
     Advisor: Prof. Carole Bernard
     
-    Research interests: computational finance, neural networks; risk measurement; pricing and hedging of exotic derivatives; decision theory
+    Research interests: computational finance; risk measurement; decision theory
 
 <hr>
 
@@ -81,8 +81,6 @@
 - L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*
 
 - C. Bernard, L. De Gennaro Aquino, S. Vanduffel, *Multivariate expected utility maximization and cost-efficient multi-asset allocation*
-
-- C. Bernard, L. De Gennaro Aquino, S. Ohadi, *Rationalising the demand for skewness*
 
 - C. Bernard, L. De Gennaro Aquino, *Optimal annuities demand for general risk averse investors*
 
