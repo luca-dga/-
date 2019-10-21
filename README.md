@@ -51,7 +51,7 @@
 
 <hr>
 
-### *Education*
+### **Education**
 - **Loughborough University, United Kingdom - Department of Mathematical Sciences**
 
     *Master of Science in Mathematical Finance* (with Distinction), 09/2016 - 09/2017
