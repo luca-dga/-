@@ -88,11 +88,11 @@
 
 ### **Teaching experience**
 - Grenoble Ecole de Management
-   - Corporate Governance, 01/2019 - 02/2019
-   - Fundamentals of Excel and Statistics, 09/2019
-   - Fundamentals of Excel and Statistics, 10/2019
-   - International Financial Risk Management, 11/2019 - 12/2019
-   - International Financial Risk Management, 04/2020
+   - Corporate Governance, 01/2019 - 02/2019, ESC 3A Programme Grande Ecole - Grenoble
+   - Fundamentals of Excel and Statistics, 09/2019, MSc Finance - Grenoble
+   - Fundamentals of Excel and Statistics, 10/2019, MSc Finance - Singapore
+   - International Financial Risk Management, 11/2019 - 12/2019, Master in International Business - Grenoble
+   - International Financial Risk Management, 04/2020, Master in International Business - Paris
 
 <hr>
 
