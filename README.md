@@ -82,7 +82,7 @@
 
 - C. Bernard, L. De Gennaro Aquino, S. Vanduffel, *Multivariate expected utility maximization and cost-efficient multi-asset allocation*
 
-- C. Bernard, L. De Gennaro Aquino, *Optimal annuities demand for general risk averse investors*
+- C. Bernard, L. De Gennaro Aquino, L. Levante, *Optimal annuities demand for general risk averse investors*
 
 <hr>
 
