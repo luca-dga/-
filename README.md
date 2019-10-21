@@ -54,7 +54,7 @@
 ### **Education**
 - **Loughborough University, United Kingdom - Department of Mathematical Sciences**
 
-    *Master of Science in Mathematical Finance* (with Distinction), 09/2016 - 09/2017
+    **Master of Science in Mathematical Finance** (with Distinction), 09/2016 - 09/2017
 
     Advisor: Prof. József Lörinczi
 
@@ -62,7 +62,7 @@
 
 -	**University of Rome “La Sapienza”, Italy - Faculty of Economics**
 
-    *Master of Science in Finance and Insurance* (with Honors), 10/2013 - 07/2016
+    **Master of Science in Finance and Insurance** (with Honors), 10/2013 - 07/2016
 
     Advisor: Prof. Maria Chiarolla
 
@@ -88,11 +88,11 @@
 
 ### **Teaching experience**
 - Grenoble Ecole de Management
-   - Corporate Governance, 01/2019 - 02/2019, ESC 3A Programme Grande Ecole - Grenoble
-   - Fundamentals of Excel and Statistics, 09/2019, MSc Finance - Grenoble
-   - Fundamentals of Excel and Statistics, 10/2019, MSc Finance - Singapore
-   - International Financial Risk Management, 11/2019 - 12/2019, Master in International Business - Grenoble
-   - International Financial Risk Management, 04/2020, Master in International Business - Paris
+   - *Corporate Governance*, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019
+   - *Fundamentals of Excel and Statistics*, MSc Finance - Grenoble, 09/2019
+   - *Fundamentals of Excel and Statistics*, MSc Finance - Singapore, 10/2019
+   - *International Financial Risk Management*, Master in International Business - Grenoble, 11/2019 - 12/2019
+   - *International Financial Risk Management*, Master in International Business - Paris, 04/2020
 
 <hr>
 
