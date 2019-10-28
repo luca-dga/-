@@ -1,5 +1,3 @@
-google-site-verification: google39f0d6178efeb257.html
-
 <div>
   <div>
   <a href="#address">Address</a> | <a href="#personal-information">Personal information</a> | 
