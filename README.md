@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="FP9ObRE_CeuXX9v48GHPlYR4t02m8N7OWeOKJqD7cu8" />
-
 <div>
   <div>
   <a href="#address">Address</a> | <a href="#personal-information">Personal information</a> | 
