@@ -102,6 +102,8 @@
 
 - Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019
 
+- Research seminar, University of Konstanz, 10/2019
+
 <hr>
 
 ### **Visiting positions**
