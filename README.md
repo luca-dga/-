@@ -16,7 +16,7 @@
 
 
 ### **Current position**
-- **Grenoble Ecole de Managament, France - Department of Law, Accounting and Finance**
+- **Grenoble Ecole de Management, France - Department of Law, Accounting and Finance**
 
     **Ph.D. student in Mathematical Finance**, since 09/2017
     
