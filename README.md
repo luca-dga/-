@@ -1,8 +1,7 @@
 <div>
   
   <div>
-  <a href="#address">Address</a> | <a href="#personal-information">Personal information</a> | 
-  <a href="#education">Current position</a> | <a href="#education">Education</a> |
+  <a href="#education">Current position</a> |<a href="#address">Address</a> | <a href="#personal-information">Personal information</a> | <a href="#education">Education</a> |
   </div>
   <div>
   <a href="#publications">Publications</a> | <a href="#working-papers">Working papers</a> |                                     
@@ -14,6 +13,18 @@
   </div>
 </div>
 <hr width="75%">
+
+
+### **Current position**
+- **Grenoble Ecole de Managament, France - Department of Law, Accounting and Finance**
+
+    **Ph.D. student in Mathematical Finance**, since 09/2017
+    
+    Advisor: Prof. Carole Bernard
+    
+    Research interests: computational finance; risk measurement; decision theory
+
+<hr>
 
 ### **Address**
 
@@ -40,17 +51,6 @@
 
 <hr>
 
-
-### **Current position**
-- **Grenoble Ecole de Managament, France - Department of Law, Accounting and Finance**
-
-    **Ph.D. student in Mathematical Finance**, since 09/2017
-    
-    Advisor: Prof. Carole Bernard
-    
-    Research interests: computational finance; risk measurement; decision theory
-
-<hr>
 
 ### **Education**
 - **Loughborough University, United Kingdom - Department of Mathematical Sciences**
