@@ -22,7 +22,7 @@
     
     Advisor: Prof. Carole Bernard
     
-    Research interests: computational finance; risk measurement; decision theory
+    Research interests: computational finance; machine learning; risk measurement; decision theory
 
 <hr>
 
@@ -53,6 +53,10 @@
 
 
 ### **Education**
+- **Grenoble Ecole de Management, France - Department of Law, Accounting and Finance**
+
+    **Master of Philosophy in Business Administration**, 09-2017 - 09/2019
+    
 - **Loughborough University, United Kingdom - Department of Mathematical Sciences**
 
     **Master of Science in Mathematical Finance** (with Distinction), 09/2016 - 09/2017
