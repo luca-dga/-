@@ -1,9 +1,3 @@
-<head>
-body {
-  font-size: 20px;
-}
-</head>
-
 <body>
 <div>
  
