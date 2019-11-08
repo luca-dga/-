@@ -1,7 +1,7 @@
 <div>
  
   <div>
-  <a href="#education">Current position</a> | <a href="#address">Address</a> | <a href="#personal-information">Personal information</a> | <a href="#education">Education</a> |
+  <a href="#current-position">Current position</a> | <a href="#address">Address</a> | <a href="#personal-information">Personal information</a> | <a href="#education">Education</a> |
   </div>
   <div>
   <a href="#publications">Publications</a> | <a href="#working-papers">Working papers</a> |                                     
