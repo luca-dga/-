@@ -1,6 +1,5 @@
-<html>
 <head>
-div {
+body {
   font-size: 20px;
 }
 </head>
