@@ -1,4 +1,3 @@
-<body>
 <div>
  
   <div>
@@ -145,4 +144,3 @@
 <a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google Scholar</a> | 
 <a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> 
 
-</body>
