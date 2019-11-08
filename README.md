@@ -19,7 +19,7 @@
 ### **Current position**
 - **Grenoble Ecole de Management, France - Department of Law, Accounting and Finance**
 
-    **Ph.D. student in Mathematical Finance**, since 09/2017
+    **PhD student in Mathematical Finance**, since 09/2017
     
     Advisor: Prof. Carole Bernard
     
@@ -62,9 +62,9 @@
 
     **MSc in Mathematical Finance** (with Distinction), 09/2016 - 09/2017
 
-      Advisor: Prof. József Lörinczi
+    Advisor: Prof. József Lörinczi
 
-      Thesis : *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
+    Thesis : *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
 
 -	**University of Rome “La Sapienza”, Italy - Faculty of Economics**
 
