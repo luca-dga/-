@@ -16,8 +16,6 @@
 </div>
 
 <hr width="75%">
-
-<div>
  
 ### **Current position**
 - **Grenoble Ecole de Management, France - Department of Law, Accounting and Finance**
@@ -147,5 +145,4 @@
 <a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google Scholar</a> | 
 <a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> 
 
-</div>
 </body>
