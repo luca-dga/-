@@ -125,7 +125,7 @@
     
 - #### **Programming skills**
 
-    Python, Julia, Matlab, SPSS, Stata
+    Python, Matlab, Julia, SPSS, Stata
     
 - #### **Work experience**
 
