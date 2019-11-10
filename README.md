@@ -127,7 +127,7 @@
 
     Python, Matlab, Julia, SPSS, Stata
     
-- #### **Work experience**
+- #### **Non-professional work experience**
 
     - Catering assistant / Kitchen porter, Berry Recruitment, Loghborough, United Kingdom, 01/2017 - 09/2017
     
