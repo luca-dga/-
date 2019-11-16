@@ -85,7 +85,7 @@
 <hr>
 
 ### **Working papers**
-- L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*
+- L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*, arXiv preprint <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">arXiv: 1911.05523</a>  
 
 - C. Bernard, L. De Gennaro Aquino, S. Vanduffel, *Multivariate expected utility maximization and cost-efficient multi-asset allocation*
 
