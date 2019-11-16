@@ -110,6 +110,8 @@
 
 - Research seminar, University of Konstanz, 10/2019
 
+- Research in Options, IMPA, Rio de Janeiro, 12/2019
+
 <hr>
 
 ### **Visiting positions**
@@ -129,7 +131,7 @@
     
 - #### **Non-professional work experience**
 
-    - Catering assistant / Kitchen porter, Berry Recruitment, Loghborough, United Kingdom, 01/2017 - 09/2017
+    - Catering assistant / kitchen porter, Berry Recruitment, Loghborough, United Kingdom, 01/2017 - 09/2017
     
     - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017
     
@@ -137,7 +139,7 @@
 
 - #### **Passions and hobbies**
 
-    I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dream is to become a piano player.
+    I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapism. My biggest dream is to become a pianist.
 
 <hr>
 
