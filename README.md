@@ -80,16 +80,18 @@
 <hr>
 
 ### **Publications**
-- L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, forthcoming
+- L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, 42(2), 
 
 <hr>
 
 ### **Working papers**
-- L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*, arXiv preprint <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">arXiv: 1911.05523</a>  
+- L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*, preprint <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">arXiv: 1911.05523</a>  
 
-- C. Bernard, L. De Gennaro Aquino, S. Vanduffel, *Multivariate expected utility maximization and cost-efficient multi-asset allocation*
+- L. De Gennaro Aquino, S. Eckstein, M. Kupper, *Primal-dual methods for optimal transport and related problems*
 
 - C. Bernard, L. De Gennaro Aquino, L. Levante, *Optimal annuities demand for general risk averse investors*
+
+- C. Bernard, L. De Gennaro Aquino, S. Vanduffel, *Multivariate expected utility maximization and cost-efficient multi-asset allocation*
 
 <hr>
 
@@ -145,5 +147,7 @@
 
 ### **External links**
 <a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google Scholar</a> | 
-<a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> 
+<a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> |
+<a href="https://https://arxiv.org/search/?searchtype=author&query=Aquino%2C+L+D+G" target="_blank">arXiv</a> 
+
 
