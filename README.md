@@ -110,9 +110,9 @@
 
 - Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019
 
-- Research seminar, University of Konstanz, 10/2019
+- Research seminar, University of Konstanz, Germany, 10/2019
 
-- Research in Options, IMPA, Rio de Janeiro, 12/2019
+- Research in Options, IMPA, Rio de Janeiro, Brasil, 12/2019
 
 <hr>
 
