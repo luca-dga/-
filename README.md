@@ -133,7 +133,7 @@
     
 - #### **Non-professional work experience**
 
-    - Catering assistant / kitchen porter, Berry Recruitment, Loghborough, United Kingdom, 01/2017 - 09/2017
+    - Catering assistant / kitchen porter, Berry Recruitment, LoUghborough, United Kingdom, 01/2017 - 09/2017
     
     - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017
     
