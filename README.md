@@ -102,6 +102,7 @@
    - *Fundamentals of Excel and Statistics*, MSc Finance - Singapore, 10/2019
    - *International Financial Risk Management*, Master in International Business - Grenoble, 11/2019 - 12/2019
    - *International Financial Risk Management*, Master in International Business - Paris, 04/2020
+   - *Advanced Quantitative Methods for Finance*, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020
 
 <hr>
 
