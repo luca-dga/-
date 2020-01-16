@@ -59,29 +59,29 @@
 
 
 ### **Education**
--   **MPhil in Business Administration**, 09/2017 - 09/2019
+-  **MPhil in Business Administration**, 09/2017 - 09/2019
     
-    Grenoble Ecole de Management, France - Department of Law, Accounting and Finance
+Grenoble Ecole de Management, France - Department of Law, Accounting and Finance
     
 - **MSc in Mathematical Finance** (with Distinction), 09/2016 - 09/2017
 
-  Loughborough University, United Kingdom - Department of Mathematical Sciences   
+Loughborough University, United Kingdom - Department of Mathematical Sciences   
 
-    Advisor: Prof. József Lörinczi
+Advisor: Prof. József Lörinczi
 
-    Thesis : *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
+Thesis : *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
 
--	 **MSc in Finance and Insurance** (with Honors), 10/2013 - 07/2016
+-	**MSc in Finance and Insurance** (with Honors), 10/2013 - 07/2016
 
-    University of Rome “La Sapienza”, Italy - Faculty of Economics
+University of Rome “La Sapienza”, Italy - Faculty of Economics
 
-    Advisor: Prof. Maria Chiarolla
+Advisor: Prof. Maria Chiarolla
 
-    Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
+Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
     
 - **BSc in Banking, Insurance and Financial Markets**, 09/2010 - 10/2013
  
-    University of Rome “La Sapienza”, Italy - Faculty of Economics
+University of Rome “La Sapienza”, Italy - Faculty of Economics
    
 <hr>
 
