@@ -1,7 +1,7 @@
 <div>
  
   <div>
-  <a href="#current-position">Current position</a> | <a href="#address">Address</a> | <a href="#personal-information">Personal information</a> | <a href="#education">Education</a> |
+  <a href="#current-position">Current position</a> | <a href="#address">Address</a> | <a href="#personal-information">Personal information</a> | <a href="#education">Education</a> | 
   </div>
   <div>
   <a href="#publications">Publications</a> | <a href="#working-papers">Working papers</a> |                                     
@@ -15,6 +15,11 @@
 </div>
 
 <hr width="75%">
+
+ <a href="https://github.com/luca-dga/-/blob/master/CV.docx" target="_blank">Download CV</a>  
+
+<hr width="25%">
+ 
  
 ### **Current position**
 - **Grenoble Ecole de Management, France - Department of Law, Accounting and Finance**
