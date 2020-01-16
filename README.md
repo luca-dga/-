@@ -79,8 +79,7 @@
 
     Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
     
-
- - **BSc in Banking, Insurance and Financial Markets**, 09/2010 - 10/2013
+- **BSc in Banking, Insurance and Financial Markets**, 09/2010 - 10/2013
  
     University of Rome “La Sapienza”, Italy - Faculty of Economics
    
