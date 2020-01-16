@@ -97,23 +97,20 @@
 
 ### **Teaching experience**
 - Grenoble Ecole de Management
-   - *Corporate Governance*, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019
-   - *Fundamentals of Excel and Statistics*, MSc Finance - Grenoble, 09/2019
-   - *Fundamentals of Excel and Statistics*, MSc Finance - Singapore, 10/2019
-   - *International Financial Risk Management*, Master in International Business - Grenoble, 11/2019 - 12/2019
-   - *Advanced Quantitative Methods for Finance*, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020
    - *International Financial Risk Management*, Master in International Business - Paris, 04/2020
+   - *Advanced Quantitative Methods for Finance*, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020
+   - *International Financial Risk Management*, Master in International Business - Grenoble, 11/2019 - 12/2019
+   - *Fundamentals of Excel and Statistics*, MSc Finance - Singapore, 10/2019
+   - *Fundamentals of Excel and Statistics*, MSc Finance - Grenoble, 09/2019
+   - *Corporate Governance*, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019
 
 <hr>
 
 ### **Talks and posters**
-- SIAM Conference on Financial Mathematics and Engineering, University of Toronto, Canada, 06/2019
-
-- Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019
-
-- Research seminar, University of Konstanz, Germany, 10/2019
-
 - Research in Options, IMPA, Rio de Janeiro, Brasil, 12/2019
+- Research seminar, University of Konstanz, Germany, 10/2019
+- Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019
+- SIAM Conference on Financial Mathematics and Engineering, University of Toronto, Canada, 06/2019
 
 <hr>
 
