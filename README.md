@@ -16,7 +16,7 @@
 
 <hr width="75%">
 
- <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/luca-dga/-/blob/master/CV_Luca_DGA.docx" target="_blank">Download CV</a>  
+ <a href="https://raw.githubusercontent.com/luca-dga/-/master/CV_Luca_DGA.docx" target="_blank">Download CV</a>  
 
 <hr width="25%">
  
