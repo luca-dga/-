@@ -73,7 +73,7 @@
 
 -	 **MSc in Finance and Insurance** (with Honors), 10/2013 - 07/2016
 
-University of Rome “La Sapienza”, Italy - Faculty of Economics
+    University of Rome “La Sapienza”, Italy - Faculty of Economics
 
     Advisor: Prof. Maria Chiarolla
 
@@ -82,7 +82,7 @@ University of Rome “La Sapienza”, Italy - Faculty of Economics
 
  - **BSc in Banking, Insurance and Financial Markets**, 09/2010 - 10/2013
  
-University of Rome “La Sapienza”, Italy - Faculty of Economics
+    University of Rome “La Sapienza”, Italy - Faculty of Economics
    
 <hr>
 
