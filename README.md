@@ -22,10 +22,9 @@
  
  
 ### **Current position**
-- **Grenoble Ecole de Management, France - Department of Law, Accounting and Finance**
-
-    **PhD student in Mathematical Finance**, since 09/2017
-    
+-   **PhD student in Mathematical Finance**, since 09/2017 
+    **Grenoble Ecole de Management, France - Department of Law, Accounting and Finance**
+   
     Advisor: Prof. Carole Bernard
     
     Research interests: computational finance; machine learning; risk measurement; decision theory
