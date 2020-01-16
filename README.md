@@ -61,7 +61,7 @@
 ### **Education**
 - **Grenoble Ecole de Management, France - Department of Law, Accounting and Finance**
 
-    **MPhil in Business Administration**, 09-2017 - 09/2019
+    **MPhil in Business Administration**, 09/2017 - 09/2019
     
 - **Loughborough University, United Kingdom - Department of Mathematical Sciences**
 
