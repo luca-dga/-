@@ -65,7 +65,7 @@
     
 - **MSc in Mathematical Finance** (with Distinction), 09/2016 - 09/2017
 
-    *Loughborough University, United Kingdom - Department of Mathematical Sciences   *
+    *Loughborough University, United Kingdom - Department of Mathematical Sciences*
 
     Advisor: Prof. József Lörinczi
 
