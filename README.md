@@ -34,17 +34,17 @@
 
 ### **Address**
 
-**Grenoble Ecole de Management**
+Grenoble Ecole de Management
 
-**12 Rue Pierre Semard**
+12 Rue Pierre Semard
 
-**38000 Grenoble, France**
+38000 Grenoble, France
 
-**Office: F813b**
+Office: F813b
 
-**E-mail: <luca.degennaroaquino@grenoble-em.com>**
+E-mail: <luca.degennaroaquino@grenoble-em.com>
 
-**ORCID: <https://orcid.org/0000-0001-5377-5385>**
+ORCID: <https://orcid.org/0000-0001-5377-5385>
 
 <hr>
 
