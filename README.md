@@ -145,12 +145,11 @@ ORCID: <https://orcid.org/0000-0001-5377-5385>
 
 - #### **Passions and hobbies**
 
-    I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dream is to become a pianist.
-
+    I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dream is to become a pianist. 
 <hr>
 
 ### **External links**
 <a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google Scholar</a> | 
-<a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> |
+<a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> 
 
 
