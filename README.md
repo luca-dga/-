@@ -95,7 +95,7 @@ ORCID: <https://orcid.org/0000-0001-5377-5385>
 
 - L. De Gennaro Aquino, S. Eckstein, M. Kupper, *Primal-dual methods for optimal transport and related problems*
 
-- C. Bernard, L. De Gennaro Aquino, L. Levante, *Optimal annuities demand for general expected utility agents*
+- C. Bernard, L. De Gennaro Aquino, L. Levante, *Optimal annuities demand for general expected utility agents*, submitted
 
 - C. Bernard, L. De Gennaro Aquino, S. Vanduffel, *Multivariate expected utility maximization and cost-efficient multi-asset allocation*
 
