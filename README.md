@@ -152,6 +152,5 @@ ORCID: <https://orcid.org/0000-0001-5377-5385>
 ### **External links**
 <a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google Scholar</a> | 
 <a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> |
-<a href="https://https://arxiv.org/search/?searchtype=author&query=Aquino%2C+L+D+G" target="_blank">arXiv</a> 
 
 
