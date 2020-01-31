@@ -86,12 +86,12 @@ ORCID: <https://orcid.org/0000-0001-5377-5385>
 <hr>
 
 ### **Publications**
-- L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, 42(2), 715-741
+- L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, 42(2), 715-741 (2019)
 
 <hr>
 
 ### **Working papers**
-- L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*, preprint <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">arXiv: 1911.05523</a>  
+- L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*, preprint <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">arXiv: 1911.05523</a> 
 
 - L. De Gennaro Aquino, S. Eckstein, M. Kupper, *Primal-dual methods for optimal transport and related problems*
 
