@@ -16,9 +16,9 @@
 
 <hr width="75%">
 
-[//]: # <a href="https://raw.githubusercontent.com/luca-dga/-/master/CV_LucaDGA.pdf" target="_blank">Download CV</a>  
+<!--- <a href="https://raw.githubusercontent.com/luca-dga/-/master/CV_LucaDGA.pdf" target="_blank">Download CV</a>  --->
 
-[//]: # <hr width="25%">
+<!--- <hr width="25%"> --->
  
  
 ### **Current position**
