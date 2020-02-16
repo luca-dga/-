@@ -74,7 +74,7 @@ Computational finance; machine learning; risk measurement; decision theory
 <hr>
 
 ### **Working papers**
-- L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*, preprint <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">arXiv: 1911.05523</a> 
+- L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*, submitted
 
 - L. De Gennaro Aquino, S. Eckstein, M. Kupper, *Primal-dual methods for optimal transport and related problems*
 
