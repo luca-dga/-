@@ -1,7 +1,7 @@
 <div>
  
   <div>
-  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#address">Address</a> |  <a href="#education">Education</a> | <a href="#visiting-positions">Visiting positions</a> |
+  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> <a href="#education">Education</a> | <a href="#visiting-positions">Visiting positions</a> |
   </div>
   <div>
   <a href="#publications">Publications</a> | <a href="#working-papers">Working papers</a> |                                     
@@ -32,10 +32,6 @@
     
 ### **Research interests**
 Computational finance; machine learning; risk measurement; decision theory
-
-<hr>
-
-### **Address**
 
 
 <hr>
