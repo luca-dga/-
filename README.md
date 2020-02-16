@@ -31,7 +31,7 @@
 <hr>
     
 ### **Research interests**
-    Computational finance; machine learning; risk measurement; decision theory
+Computational finance; machine learning; risk measurement; decision theory
 
 <hr>
 
