@@ -1,7 +1,7 @@
 <div>
  
   <div>
-  <a href="#current-position">Current position</a> | <a href="#address">Address</a> |  <a href="#education">Education</a> | <a href="#visiting-positions">Visiting positions</a> |
+  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#address">Address</a> |  <a href="#education">Education</a> | <a href="#visiting-positions">Visiting positions</a> |
   </div>
   <div>
   <a href="#publications">Publications</a> | <a href="#working-papers">Working papers</a> |                                     
@@ -26,9 +26,12 @@
 
     *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance
    
-    Advisor: Prof. Carole Bernard
+    Advisor: Prof. <a href="http://www.carole.bernard.free.fr/" target="_blank">Carole Bernard</a>
     
-    Research interests: computational finance; machine learning; risk measurement; decision theory
+<hr>
+    
+### **Research interests**
+    Computational finance; machine learning; risk measurement; decision theory
 
 <hr>
 
