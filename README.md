@@ -117,11 +117,11 @@ ORCID: <https://orcid.org/0000-0001-5377-5385>
 
 ### **Other miscellaneous information**
 - #### **Personal information**
-- Date and place of birth: 16/07/1991, Sant’Agnello, Italy
+    - Date and place of birth: 16/07/1991, Sant’Agnello, Italy
 
-- Citizenship : Italian
+    - Citizenship : Italian
 
-- Phone: +33 0767387586
+    - Phone: +33 0767387586
 
 - #### **Language skills**
 
