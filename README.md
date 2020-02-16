@@ -5,7 +5,7 @@
   </div>
   <div>
   <a href="#publications">Publications</a> | <a href="#working-papers">Working papers</a> |                                     
-  <a href="#teaching-experience">Teaching experience</a> | <a href="#talks-and-posters">Talks and posters</a> |
+  <a href="#teaching">Teaching</a> | <a href="#talks-and-posters">Talks and posters</a> |
   </div>
   <div>
    <a href="#other-miscellaneous-information">Other miscellaneous information</a> |
@@ -88,7 +88,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 <hr>
 
-### **Teaching experience**
+### **Teaching**
 - Grenoble Ecole de Management
    - *International Financial Risk Management*, Master in International Business - Paris, 04/2020
    - *Advanced Quantitative Methods for Finance*, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020
