@@ -37,17 +37,6 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Address**
 
-12 Rue Pierre Semard
-
-Grenoble Ecole de Management
-
-38000 Grenoble, France
-
-Office: F813b
-
-E-mail: <luca.degennaroaquino@grenoble-em.com>
-
-ORCID: <https://orcid.org/0000-0001-5377-5385>
 
 <hr>
 
