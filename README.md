@@ -1,14 +1,14 @@
 <div>
  
   <div>
-  <a href="#current-position">Current position</a> | <a href="#address">Address</a> | <a href="#personal-information">Personal information</a> | <a href="#education">Education</a> | 
+  <a href="#current-position">Current position</a> | <a href="#address">Address</a> |  <a href="#education">Education</a> | <a href="#visiting-positions">Visiting positions</a> |
   </div>
   <div>
   <a href="#publications">Publications</a> | <a href="#working-papers">Working papers</a> |                                     
   <a href="#teaching-experience">Teaching experience</a> | <a href="#talks-and-posters">Talks and posters</a> |
   </div>
   <div>
-  <a href="#visiting-positions">Visiting positions</a> | <a href="#other-miscellaneous-information">Other miscellaneous information</a> |
+   <a href="#other-miscellaneous-information">Other miscellaneous information</a> |
   <a href="#external-links">External links</a> 
   </div>
   
@@ -48,16 +48,6 @@ ORCID: <https://orcid.org/0000-0001-5377-5385>
 
 <hr>
 
-### **Personal information**
-- Date and place of birth: 16/07/1991, Sant’Agnello, Italy
-
-- Citizenship : Italian
-
-- Phone: +33 0767387586
-
-<hr>
-
-
 ### **Education**
 -  **MPhil in Business Administration**, 09/2017 - 09/2019
     
@@ -83,6 +73,11 @@ ORCID: <https://orcid.org/0000-0001-5377-5385>
  
     *University of Rome “La Sapienza”*, Italy - Faculty of Economics
    
+<hr>
+
+### **Visiting positions**
+- University of Konstanz, Germany - Department of Mathematics, 09/2019 - 10/2019, invited by Prof. Michael Kupper and Stephan Eckstein
+
 <hr>
 
 ### **Publications**
@@ -120,12 +115,13 @@ ORCID: <https://orcid.org/0000-0001-5377-5385>
 
 <hr>
 
-### **Visiting positions**
-- University of Konstanz, Germany - Department of Mathematics, 09/2019 - 10/2019, invited by Prof. Michael Kupper and Stephan Eckstein
-
-<hr>
-
 ### **Other miscellaneous information**
+- #### **Personal information**
+- Date and place of birth: 16/07/1991, Sant’Agnello, Italy
+
+- Citizenship : Italian
+
+- Phone: +33 0767387586
 
 - #### **Language skills**
 
