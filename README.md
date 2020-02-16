@@ -1,7 +1,7 @@
 <div>
  
   <div>
-  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> <a href="#education">Education</a> | <a href="#visiting-positions">Visiting positions</a> |
+  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#visiting-positions">Visiting positions</a> |
   </div>
   <div>
   <a href="#publications">Publications</a> | <a href="#working-papers">Working papers</a> |                                     
@@ -134,6 +134,6 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **External links**
 <a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google Scholar</a> | 
-<a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> 
+<a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> |
 <a href="https://orcid.org/0000-0001-5377-5385" target="_blank">ORCID</a> 
 
