@@ -5,7 +5,7 @@
   </div>
   <div>
   <a href="#publications">Publications</a> | <a href="#working-papers">Working papers</a> |                                     
-  <a href="#teaching">Teaching</a> | <a href="#talks-and-posters">Talks and posters</a> |
+  <a href="#teaching">Teaching</a> | <a href="#talks">Talks</a> |
   </div>
   <div>
    <a href="#other-miscellaneous-information">Other miscellaneous information</a> |
@@ -95,7 +95,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 <hr>
 
-### **Talks and posters**
+### **Talks**
 - Research in Options, IMPA, Rio de Janeiro, Brasil, 12/2019
 - Research seminar, University of Konstanz, Germany, 10/2019
 - Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019
