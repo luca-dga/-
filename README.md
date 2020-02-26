@@ -1,3 +1,4 @@
+<h2><code>padding: 10px;
 <div>
  
   <div>
@@ -137,3 +138,4 @@ Computational finance; machine learning; risk measurement; decision theory
 <a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> |
 <a href="https://orcid.org/0000-0001-5377-5385" target="_blank">ORCID</a> 
 
+</code></h2>
