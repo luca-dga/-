@@ -75,7 +75,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Publications**
 
-<li>L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, 42(2), 715-741 (2019)</li>
+<li>L. De Gennaro Aquino, C. Bernard, <i>Semi-analytical prices for lookback and barrier options under the Heston model</i>, Decisions in Economics and Finance, 42(2), 715-741 (2019)</li>
 
 <hr>
 
