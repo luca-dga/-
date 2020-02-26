@@ -94,8 +94,11 @@ Computational finance; machine learning; risk measurement; decision theory
 ### **Teaching**
 
 <li>Grenoble Ecole de Management</li>
+
 &nbsp;&nbsp;&nbsp; <li><i>International Financial Risk Management</i>, Master in International Business - Paris, 04/2020 </li>
+
 &nbsp;&nbsp;&nbsp; <li><i>Advanced Quantitative Methods for Finance</i>, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020</li>
+
 &nbsp;&nbsp;&nbsp; <li><i>International Financial Risk Management</i>, Master in International Business - Grenoble, 11/2019 - 12/2019</li>
 
 &nbsp;&nbsp;&nbsp; <li><i>Fundamentals of Excel and Statistics</i>, MSc Finance - Singapore, 10/2019</li>
