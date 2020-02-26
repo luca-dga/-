@@ -43,27 +43,27 @@ Computational finance; machine learning; risk measurement; decision theory
 
 <li><b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li> 
     
-   &nbsp;&nbsp;&nbsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	 
+&nbsp;&nbsp;&nbsp;&nbsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	 
     
 <li><b>MSc in Mathematical Finance</b> (with Distinction), 09/2016 - 09/2017 </li>
 
-   &nbsp;&nbsp;&nbsp; *Loughborough University*, United Kingdom - Department of Mathematical Sciences
+&nbsp;&nbsp;&nbsp;&nbsp; *Loughborough University*, United Kingdom - Department of Mathematical Sciences
 
-   &nbsp;&nbsp;&nbsp; Advisor: Prof. József Lörinczi
+&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. József Lörinczi
 
-   &nbsp;&nbsp;&nbsp; Thesis : *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
+&nbsp;&nbsp;&nbsp;&nbsp; Thesis : *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
 
 <li><b>MSc in Finance and Insurance</b> (with Honors), 10/2013 - 07/2016 </li>
 
-   &nbsp;&nbsp;&nbsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
+&nbsp;&nbsp;&nbsp;&nbsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
 
-   &nbsp;&nbsp;&nbsp; Advisor: Prof. Maria Chiarolla
+&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Maria Chiarolla
 
-   &nbsp;&nbsp;&nbsp; Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
+&nbsp;&nbsp;&nbsp;&nbsp; Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
     
 <li><b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li>
  
-   &nbsp;&nbsp;&nbsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
+&nbsp;&nbsp;&nbsp;&nbsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
    
 <hr>
 
