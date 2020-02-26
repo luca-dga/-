@@ -99,7 +99,7 @@ Computational finance; machine learning; risk measurement; decision theory
 &nbsp;&nbsp;&nbsp; -<i>International Financial Risk Management</i>, Master in International Business - Grenoble, 11/2019 - 12/2019<br>
 &nbsp;&nbsp;&nbsp; -<i>Fundamentals of Excel and Statistics</i>, MSc Finance - Singapore, 10/2019<br>
 &nbsp;&nbsp;&nbsp; -<i>Fundamentals of Excel and Statistics</i>, MSc Finance - Grenoble, 09/2019<br>
-&nbsp;&nbsp; -<i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019<br>
+&nbsp;&nbsp;&nbsp; -<i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019<br>
 
 <hr>
 
