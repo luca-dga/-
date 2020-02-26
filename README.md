@@ -94,12 +94,12 @@ Computational finance; machine learning; risk measurement; decision theory
 ### **Teaching**
 
 <li>Grenoble Ecole de Management</li>
-&nbsp;&nbsp;&nbsp; -<i>International Financial Risk Management</i>, Master in International Business - Paris, 04/2020 <br>
-&nbsp;&nbsp;&nbsp; -<i>Advanced Quantitative Methods for Finance</i>, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020<br>
-&nbsp;&nbsp;&nbsp; -<i>International Financial Risk Management</i>, Master in International Business - Grenoble, 11/2019 - 12/2019<br>
-&nbsp;&nbsp;&nbsp; -<i>Fundamentals of Excel and Statistics</i>, MSc Finance - Singapore, 10/2019<br>
-&nbsp;&nbsp;&nbsp; -<i>Fundamentals of Excel and Statistics</i>, MSc Finance - Grenoble, 09/2019<br>
-&nbsp;&nbsp;&nbsp; -<i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - <i>International Financial Risk Management</i>, Master in International Business - Paris, 04/2020 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - <i>Advanced Quantitative Methods for Finance</i>, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - <i>International Financial Risk Management</i>, Master in International Business - Grenoble, 11/2019 - 12/2019<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Singapore, 10/2019<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Grenoble, 09/2019<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - <i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019<br>
 
 <hr>
 
@@ -114,10 +114,10 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Other miscellaneous information**
 
-<li><b>Personal information</b></li>
-&nbsp;&nbsp; - Date and place of birth: 16/07/1991, Sant’Agnello, Italy <br>
-&nbsp;&nbsp; - Citizenship : Italian <br>
-&nbsp;&nbsp; - Phone: +33 0767387586
+&nbsp;&nbsp; <li><b>Personal information</b></li>
+&nbsp;&nbsp;&nbsp;&nbsp; - Date and place of birth: 16/07/1991, Sant’Agnello, Italy <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Citizenship : Italian <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Phone: +33 0767387586
 
 <li><b>Language skills</b></li>
 
