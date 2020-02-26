@@ -38,11 +38,11 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Education**
 
-<li>  <b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li>
+<li>  <b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li> <br>
     
    *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	 
     
-<li>  <b>MSc in Mathematical Finance<b> (with Distinction), 09/2016 - 09/2017 </li>
+<li>  <b>MSc in Mathematical Finance</b> (with Distinction), 09/2016 - 09/2017 </li>
 
    *Loughborough University*, United Kingdom - Department of Mathematical Sciences
 
