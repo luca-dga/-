@@ -1,4 +1,3 @@
-<h2><code>padding: 10px;</code></h2>
 <div>
  
   <div>
