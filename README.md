@@ -37,11 +37,12 @@ Computational finance; machine learning; risk measurement; decision theory
 <hr>
 
 ### **Education**
+
 <li>  <b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li>
     
    *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	 
     
-<li>  **MSc in Mathematical Finance** (with Distinction), 09/2016 - 09/2017 </li>
+<li>  <b>MSc in Mathematical Finance<b> (with Distinction), 09/2016 - 09/2017 </li>
 
    *Loughborough University*, United Kingdom - Department of Mathematical Sciences
 
@@ -64,16 +65,19 @@ Computational finance; machine learning; risk measurement; decision theory
 <hr>
 
 ### **Visiting positions**
+
    - University of Konstanz, Germany - Department of Mathematics, 09/2019 - 10/2019, invited by Prof. Michael Kupper and Stephan Eckstein
 
 <hr>
 
 ### **Publications**
+
    - L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, 42(2), 715-741 (2019)
 
 <hr>
 
 ### **Working papers**
+
    - L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*, submitted
 
    - L. De Gennaro Aquino, S. Eckstein, M. Kupper, *Primal-dual methods for optimal transport and related problems*
@@ -85,6 +89,7 @@ Computational finance; machine learning; risk measurement; decision theory
 <hr>
 
 ### **Teaching**
+
    - Grenoble Ecole de Management
        - *International Financial Risk Management*, Master in International Business - Paris, 04/2020
        - *Advanced Quantitative Methods for Finance*, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020
@@ -95,7 +100,8 @@ Computational finance; machine learning; risk measurement; decision theory
 
 <hr>
 
-### **Talks**
+### **Talks***
+
    - Research in Options, IMPA, Rio de Janeiro, Brasil, 12/2019
    - Research seminar, University of Konstanz, Germany, 10/2019
    - Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019
@@ -104,6 +110,7 @@ Computational finance; machine learning; risk measurement; decision theory
 <hr>
 
 ### **Other miscellaneous information**
+
    - #### **Personal information**
        - Date and place of birth: 16/07/1991, Sant’Agnello, Italy
 
@@ -133,6 +140,7 @@ Computational finance; machine learning; risk measurement; decision theory
 <hr>
 
 ### **External links**
+
 <a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google Scholar</a> | 
 <a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> |
 <a href="https://orcid.org/0000-0001-5377-5385" target="_blank">ORCID</a> 
