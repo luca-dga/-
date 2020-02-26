@@ -25,10 +25,8 @@ luca.degennaroaquino@grenoble-em.com <br>
  
  
 ### **Current position**
-   <b>PhD student in Mathematical Finance</b>, since 09/2017 
-
-   *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance
-   
+   <b>PhD student in Mathematical Finance</b>, since 09/2017  <br>
+   *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance <br>
    Advisor: Prof. <a href="http://www.carole.bernard.free.fr/" target="_blank">Carole Bernard</a>
     
 <hr>
@@ -41,28 +39,20 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Education**
 
-<li><b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li> 
-    
-&nbsp;&nbsp;&nbsp;&nbsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	 
-    
-<li><b>MSc in Mathematical Finance</b> (with Distinction), 09/2016 - 09/2017 </li>
+<li><b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	  
 
-&nbsp;&nbsp;&nbsp;&nbsp; *Loughborough University*, United Kingdom - Department of Mathematical Sciences
-
-&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. József Lörinczi
-
+<li><b>MSc in Mathematical Finance</b> (with Distinction), 09/2016 - 09/2017 </li>  <br>
+&nbsp;&nbsp;&nbsp;&nbsp; *Loughborough University*, United Kingdom - Department of Mathematical Sciences <br> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. József Lörinczi <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Thesis : *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
 
-<li><b>MSc in Finance and Insurance</b> (with Honors), 10/2013 - 07/2016 </li>
-
-&nbsp;&nbsp;&nbsp;&nbsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
-
-&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Maria Chiarolla
-
+<li><b>MSc in Finance and Insurance</b> (with Honors), 10/2013 - 07/2016 </li> <br> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Prof. Maria Chiarolla <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
     
-<li><b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li>
- 
+<li><b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li> <br> 
 &nbsp;&nbsp;&nbsp;&nbsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
    
 <hr>
