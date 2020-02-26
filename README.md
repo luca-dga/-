@@ -94,18 +94,12 @@ Computational finance; machine learning; risk measurement; decision theory
 ### **Teaching**
 
 <li>Grenoble Ecole de Management</li>
-
-&nbsp;&nbsp;&nbsp; <li><i>International Financial Risk Management</i>, Master in International Business - Paris, 04/2020 </li>
-
-&nbsp;&nbsp;&nbsp; <li><i>Advanced Quantitative Methods for Finance</i>, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020</li>
-
-&nbsp;&nbsp;&nbsp; <li><i>International Financial Risk Management</i>, Master in International Business - Grenoble, 11/2019 - 12/2019</li>
-
-&nbsp;&nbsp;&nbsp; <li><i>Fundamentals of Excel and Statistics</i>, MSc Finance - Singapore, 10/2019</li>
-
-&nbsp;&nbsp;&nbsp; <li><i>Fundamentals of Excel and Statistics</i>, MSc Finance - Grenoble, 09/2019</li>
-
-&nbsp;&nbsp; <li><i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019</li>
+&nbsp;&nbsp;&nbsp; -<i>International Financial Risk Management</i>, Master in International Business - Paris, 04/2020 <br>
+&nbsp;&nbsp;&nbsp; -<i>Advanced Quantitative Methods for Finance</i>, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020<br>
+&nbsp;&nbsp;&nbsp; -<i>International Financial Risk Management</i>, Master in International Business - Grenoble, 11/2019 - 12/2019<br>
+&nbsp;&nbsp;&nbsp; -<i>Fundamentals of Excel and Statistics</i>, MSc Finance - Singapore, 10/2019<br>
+&nbsp;&nbsp;&nbsp; -<i>Fundamentals of Excel and Statistics</i>, MSc Finance - Grenoble, 09/2019<br>
+&nbsp;&nbsp; -<i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019<br>
 
 <hr>
 
@@ -121,29 +115,27 @@ Computational finance; machine learning; risk measurement; decision theory
 ### **Other miscellaneous information**
 
 <li><b>Personal information</b></li>
- &nbsp;&nbsp; - Date and place of birth: 16/07/1991, Sant’Agnello, Italy <br>
- &nbsp;&nbsp; - Citizenship : Italian <br>
- &nbsp;&nbsp; - Phone: +33 0767387586
+&nbsp;&nbsp; - Date and place of birth: 16/07/1991, Sant’Agnello, Italy <br>
+&nbsp;&nbsp; - Citizenship : Italian <br>
+&nbsp;&nbsp; - Phone: +33 0767387586
 
- <li><b>Language skills</b></li>
+<li><b>Language skills</b></li>
 
- &nbsp;&nbsp; Italian (native), English (fluent), French (intermediate)
+&nbsp;&nbsp;&nbsp;&nbsp; Italian (native), English (fluent), French (intermediate)
     
- <li><b>Programming skills</b></li>
+<li><b>Programming skills</b></li>
 
- &nbsp;&nbsp; Python, Matlab, Julia, SPSS, Stata
+&nbsp;&nbsp;&nbsp;&nbsp; Python, Matlab, Julia, SPSS, Stata
     
- <li><b>Non-professional work experience</b></li>
+<li><b>Non-professional work experience</b></li>
 
- &nbsp;&nbsp; - Catering assistant / kitchen porter, Berry Recruitment, LoUghborough, United Kingdom, 01/2017 - 09/2017
-    
- &nbsp;&nbsp; - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017
-    
- &nbsp;&nbsp; - Lifeguard, swimming pool "La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009
+&nbsp;&nbsp; - Catering assistant / kitchen porter, Berry Recruitment, LoUghborough, United Kingdom, 01/2017 - 09/2017<br>
+&nbsp;&nbsp; - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017<br>
+&nbsp;&nbsp; - Lifeguard, swimming pool "La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009<br>
 
 <li><b>Passions and hobbies</b></li>
 
-I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dream is to become a pianist. 
+&nbsp;&nbsp;&nbsp;&nbsp; I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dream is to become a pianist. 
 <hr>
 
 ### **External links**
