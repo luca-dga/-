@@ -38,11 +38,11 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Education**
 
-<li>  <b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li> 
+<li><b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li> 
     
    &nbsp;&nbsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	 
     
-<li>  <b>MSc in Mathematical Finance</b> (with Distinction), 09/2016 - 09/2017 </li>
+<li><b>MSc in Mathematical Finance</b> (with Distinction), 09/2016 - 09/2017 </li>
 
    &nbsp;&nbsp; *Loughborough University*, United Kingdom - Department of Mathematical Sciences
 
@@ -50,7 +50,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
    &nbsp;&nbsp; Thesis : *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
 
-<li>  <b>MSc in Finance and Insurance</b> (with Honors), 10/2013 - 07/2016 </li>
+<li><b>MSc in Finance and Insurance</b> (with Honors), 10/2013 - 07/2016 </li>
 
    &nbsp;&nbsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
 
@@ -58,7 +58,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
    &nbsp;&nbsp; Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
     
-<li>  <b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li>
+<li><b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li>
  
    &nbsp;&nbsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
    
@@ -66,67 +66,65 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Visiting positions**
 
-   - University of Konstanz, Germany - Department of Mathematics, 09/2019 - 10/2019, invited by Prof. Michael Kupper and Stephan Eckstein
+<li>University of Konstanz, Germany - Department of Mathematics, 09/2019 - 10/2019, invited by Prof. Michael Kupper and Stephan Eckstein </li>
 
 <hr>
 
 ### **Publications**
 
-   - L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, 42(2), 715-741 (2019)
+<li>L. De Gennaro Aquino, C. Bernard, *Semi-analytical prices for lookback and barrier options under the Heston model*, Decisions in Economics and Finance, 42(2), 715-741 (2019)</li>
 
 <hr>
 
 ### **Working papers**
 
-   - L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*, submitted
+<li>L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*, submitted</li>
 
-   - L. De Gennaro Aquino, S. Eckstein, M. Kupper, *Primal-dual methods for optimal transport and related problems*
+<li>L. De Gennaro Aquino, S. Eckstein, M. Kupper, *Primal-dual methods for optimal transport and related problems*</li>
 
-   - C. Bernard, L. De Gennaro Aquino, L. Levante, *Optimal annuities demand for general expected utility agents*, submitted
+<li>C. Bernard, L. De Gennaro Aquino, L. Levante, *Optimal annuities demand for general expected utility agents*, submitted</li>
 
-   - C. Bernard, L. De Gennaro Aquino, S. Vanduffel, *Multivariate expected utility maximization and cost-efficient multi-asset allocation*
+<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel, *Multivariate expected utility maximization and cost-efficient multi-asset allocation*</li>
 
 <hr>
 
 ### **Teaching**
 
-   - Grenoble Ecole de Management
-       - *International Financial Risk Management*, Master in International Business - Paris, 04/2020
-       - *Advanced Quantitative Methods for Finance*, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020
-       - *International Financial Risk Management*, Master in International Business - Grenoble, 11/2019 - 12/2019
-       - *Fundamentals of Excel and Statistics*, MSc Finance - Singapore, 10/2019
-       - *Fundamentals of Excel and Statistics*, MSc Finance - Grenoble, 09/2019
-       - *Corporate Governance*, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019
+<li>Grenoble Ecole de Management</li>
+&nbsp;&nbsp; - *International Financial Risk Management*, Master in International Business - Paris, 04/2020
+&nbsp;&nbsp; - *Advanced Quantitative Methods for Finance*, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020
+&nbsp;&nbsp; - *International Financial Risk Management*, Master in International Business - Grenoble, 11/2019 - 12/2019
+&nbsp;&nbsp; - *Fundamentals of Excel and Statistics*, MSc Finance - Singapore, 10/2019
+&nbsp;&nbsp; - *Fundamentals of Excel and Statistics*, MSc Finance - Grenoble, 09/2019
+&nbsp;&nbsp; - *Corporate Governance*, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019
 
 <hr>
 
-### **Talks***
+### **Talks**
 
-   - Research in Options, IMPA, Rio de Janeiro, Brasil, 12/2019
-   - Research seminar, University of Konstanz, Germany, 10/2019
-   - Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019
-   - SIAM Conference on Financial Mathematics and Engineering, University of Toronto, Canada, 06/2019
+<li>Research in Options, IMPA, Rio de Janeiro, Brasil, 12/2019</li>
+<li>Research seminar, University of Konstanz, Germany, 10/2019</li>
+<li>Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019</li>
+<li>SIAM Conference on Financial Mathematics and Engineering, University of Toronto, Canada, 06/2019</li>
 
 <hr>
 
 ### **Other miscellaneous information**
 
-   - #### **Personal information**
-       - Date and place of birth: 16/07/1991, Sant’Agnello, Italy
+<li><b>Personal information</b></li>
+ &nbsp;&nbsp; - Date and place of birth: 16/07/1991, Sant’Agnello, Italy <br>
+ &nbsp;&nbsp; - Citizenship : Italian <br>
+ &nbsp;&nbsp; - Phone: +33 0767387586
 
-       - Citizenship : Italian
+ <li><b>Language skills</b></li>
 
-       - Phone: +33 0767387586
-
-   - #### **Language skills**
-
-        Italian (native), English (fluent), French (intermediate)
+ &nbsp;&nbsp; Italian (native), English (fluent), French (intermediate)
     
-   - #### **Programming skills**
+ <li><b>Programming skills</b></li>
 
-        Python, Matlab, Julia, SPSS, Stata
+ &nbsp;&nbsp; Python, Matlab, Julia, SPSS, Stata
     
-   - #### **Non-professional work experience**
+   - <b>Non-professional work experience</b>
 
        - Catering assistant / kitchen porter, Berry Recruitment, LoUghborough, United Kingdom, 01/2017 - 09/2017
     
