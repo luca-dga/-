@@ -132,15 +132,15 @@ Computational finance; machine learning; risk measurement; decision theory
     
  <li><b>Non-professional work experience</b></li>
 
-   - Catering assistant / kitchen porter, Berry Recruitment, LoUghborough, United Kingdom, 01/2017 - 09/2017
+ &nbsp;&nbsp; - Catering assistant / kitchen porter, Berry Recruitment, LoUghborough, United Kingdom, 01/2017 - 09/2017
     
-   - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017
+ &nbsp;&nbsp; - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017
     
-   - Lifeguard, swimming pool "La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009
+ &nbsp;&nbsp; - Lifeguard, swimming pool "La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009
 
 <li><b>Passions and hobbies</b></li>
 
-   I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dream is to become a pianist. 
+I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dream is to become a pianist. 
 <hr>
 
 ### **External links**
