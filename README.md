@@ -38,29 +38,29 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Education**
 
-<li>  <b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li> <br>
+<li>  <b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li> 
     
-   *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	 
+   &nbsp;&nbsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	 
     
 <li>  <b>MSc in Mathematical Finance</b> (with Distinction), 09/2016 - 09/2017 </li>
 
-   *Loughborough University*, United Kingdom - Department of Mathematical Sciences
+   &nbsp;&nbsp; *Loughborough University*, United Kingdom - Department of Mathematical Sciences
 
-   Advisor: Prof. József Lörinczi
+   &nbsp;&nbsp; Advisor: Prof. József Lörinczi
 
-   Thesis : *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
+   &nbsp;&nbsp; Thesis : *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
 
 <li>  <b>MSc in Finance and Insurance</b> (with Honors), 10/2013 - 07/2016 </li>
 
-   *University of Rome “La Sapienza”*, Italy - Faculty of Economics
+   &nbsp;&nbsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
 
-   Advisor: Prof. Maria Chiarolla
+   &nbsp;&nbsp; Advisor: Prof. Maria Chiarolla
 
-   Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
+   &nbsp;&nbsp; Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
     
 <li>  <b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li>
  
-   *University of Rome “La Sapienza”*, Italy - Faculty of Economics
+   &nbsp;&nbsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
    
 <hr>
 
