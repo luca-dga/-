@@ -114,7 +114,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Other miscellaneous information**
 
-&nbsp;&nbsp; <li><b>Personal information</b></li>
+<li><b>Personal information</b></li>
 &nbsp;&nbsp;&nbsp;&nbsp; - Date and place of birth: 16/07/1991, Sant’Agnello, Italy <br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Citizenship : Italian <br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Phone: +33 0767387586
