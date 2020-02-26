@@ -22,7 +22,7 @@
  
  
 ### **Current position**
-   **PhD student in Mathematical Finance**, since 09/2017 
+   <b>PhD student in Mathematical Finance</b>, since 09/2017 
 
    *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance
    
@@ -37,7 +37,7 @@ Computational finance; machine learning; risk measurement; decision theory
 <hr>
 
 ### **Education**
-<li>  **MPhil in Business Administration**, 09/2017 - 09/2019 </li>
+<li>  <b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li>
     
    *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	 
     
@@ -49,7 +49,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
    Thesis : *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
 
-<li>  **MSc in Finance and Insurance** (with Honors), 10/2013 - 07/2016 </li>
+<li>  <b>MSc in Finance and Insurance</b> (with Honors), 10/2013 - 07/2016 </li>
 
    *University of Rome “La Sapienza”*, Italy - Faculty of Economics
 
@@ -57,7 +57,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
    Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
     
-<li>  **BSc in Banking, Insurance and Financial Markets**, 09/2010 - 10/2013 </li>
+<li>  <b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li>
  
    *University of Rome “La Sapienza”*, Italy - Faculty of Economics
    
