@@ -81,30 +81,28 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Working papers**
 
-<li>L. De Gennaro Aquino, C. Bernard, *Bounds on multi-asset derivatives via neural networks*, submitted</li>
+<li>L. De Gennaro Aquino, C. Bernard, <i>Bounds on multi-asset derivatives via neural networks</i>, submitted</li>
 
-<li>L. De Gennaro Aquino, S. Eckstein, M. Kupper, *Primal-dual methods for optimal transport and related problems*</li>
+<li>L. De Gennaro Aquino, S. Eckstein, M. Kupper, <i>Primal-dual methods for optimal transport and related problems</i></li>
 
-<li>C. Bernard, L. De Gennaro Aquino, L. Levante, *Optimal annuities demand for general expected utility agents*, submitted</li>
+<li>C. Bernard, L. De Gennaro Aquino, L. Levante, <i>Optimal annuities demand for general expected utility agents</i>, submitted</li>
 
-<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel, *Multivariate expected utility maximization and cost-efficient multi-asset allocation*</li>
+<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel, <i>Multivariate expected utility maximization and cost-efficient multi-asset allocation</i></li>
 
 <hr>
 
 ### **Teaching**
 
 <li>Grenoble Ecole de Management</li>
-&nbsp;&nbsp;&nbsp; - *International Financial Risk Management*, Master in International Business - Paris, 04/2020 
+&nbsp;&nbsp;&nbsp; <li><i>International Financial Risk Management</i>, Master in International Business - Paris, 04/2020 </li>
+&nbsp;&nbsp;&nbsp; <li><i>Advanced Quantitative Methods for Finance</i>, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020</li>
+&nbsp;&nbsp;&nbsp; <li><i>International Financial Risk Management</i>, Master in International Business - Grenoble, 11/2019 - 12/2019</li>
 
-&nbsp;&nbsp;&nbsp; - *Advanced Quantitative Methods for Finance*, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020
+&nbsp;&nbsp;&nbsp; <li><i>Fundamentals of Excel and Statistics</i>, MSc Finance - Singapore, 10/2019</li>
 
-&nbsp;&nbsp;&nbsp; - *International Financial Risk Management*, Master in International Business - Grenoble, 11/2019 - 12/2019
+&nbsp;&nbsp;&nbsp; <li><i>Fundamentals of Excel and Statistics</i>, MSc Finance - Grenoble, 09/2019</li>
 
-&nbsp;&nbsp;&nbsp; - *Fundamentals of Excel and Statistics*, MSc Finance - Singapore, 10/2019
-
-&nbsp;&nbsp;&nbsp; - *Fundamentals of Excel and Statistics*, MSc Finance - Grenoble, 09/2019
-
-&nbsp;&nbsp; - *Corporate Governance*, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019
+&nbsp;&nbsp; <li><i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019</li>
 
 <hr>
 
