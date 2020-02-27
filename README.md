@@ -98,7 +98,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 <hr>
 
-### **Other miscellaneous information**
+### **Miscellaneous**
 
 <li><b>Personal information</b></li>
 &emsp; - Date and place of birth: 16/07/1991, Sant’Agnello, Italy <br>
