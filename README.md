@@ -4,7 +4,7 @@ Department of Accounting, Law and Finance <br>
 38000 Grenoble, France <br>
 Office F813b <br>
 luca.degennaroaquino@grenoble-em.com <br>
-
+<img src="photo_webpage.jpg" alt=" " align="right"  width=270; height=280;>
 
 <div>
  
