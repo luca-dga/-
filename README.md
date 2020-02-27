@@ -1,4 +1,5 @@
 <img src="photo_webpage.jpg" alt=" " align="right" style="vertical-align: top;"  width=260; height=270;/>
+
 Grenoble Ecole de Management <br>
 Department of Accounting, Law and Finance <br>
 12 Rue Pierre Semard <br>
