@@ -6,10 +6,8 @@ Department of Accounting, Law and Finance <br>
 38000 Grenoble, France <br>
 Office F813b <br>
 Email: luca.degennaroaquino@grenoble-em.com <br>
-
-
  
-  <div>
+<div>
   <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#visiting-positions">Visiting positions</a> | <a href="#publications">Publications</a> | 
   </div>
   <div>
@@ -21,7 +19,7 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
 <!--- <a href="https://raw.githubusercontent.com/luca-dga/-/master/CV_LucaDGA.pdf" target="_blank">Download CV</a>  --->
 
 <!--- <hr width="25%"> --->
- 
+
  
 ### **Current position**
    <b>PhD student in Mathematical Finance</b>, 09/2017 - present  <br>
