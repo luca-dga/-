@@ -69,7 +69,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 <li>L. De Gennaro Aquino, S. Eckstein, M. Kupper, <i>Primal-dual methods for optimal transport and related problems</i></li>
 
-<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel, <i>Multivariate expected utility maximization and cost-efficient multi-asset allocation</i></li>
+<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel, <i>Multivariate expected utility maximization as cost-efficient asset allocation</i></li>
 
 <li>L. De Gennaro Aquino, C. Bernard, <i>Bounds on multi-asset derivatives via neural networks</i>, submitted</li>
 
