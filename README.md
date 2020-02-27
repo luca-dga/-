@@ -80,12 +80,12 @@ Computational finance; machine learning; risk measurement; decision theory
 ### **Teaching**
 
 <li>Grenoble Ecole de Management</li>
-&emsp; &emsp; - <i>International Financial Risk Management</i>, Master in International Business - Paris, 04/2020 <br>
-&emsp; &emsp; - <i>Advanced Quantitative Methods for Finance</i>, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020<br>
-&emsp; &emsp; - <i>International Financial Risk Management</i>, Master in International Business - Grenoble, 11/2019 - 12/2019<br>
-&emsp; &emsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Singapore, 10/2019<br>
-&emsp; &emsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Grenoble, 09/2019<br>
-&emsp; &emsp; - <i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019<br>
+&emsp; - <i>International Financial Risk Management</i>, Master in International Business - Paris, 04/2020 <br>
+&emsp; - <i>Advanced Quantitative Methods for Finance</i>, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020<br>
+&emsp; - <i>International Financial Risk Management</i>, Master in International Business - Grenoble, 11/2019 - 12/2019<br>
+&emsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Singapore, 10/2019<br>
+&emsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Grenoble, 09/2019<br>
+&emsp; - <i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019<br>
 
 <hr>
 
@@ -101,23 +101,23 @@ Computational finance; machine learning; risk measurement; decision theory
 ### **Other miscellaneous information**
 
 <li><b>Personal information</b></li>
-&emsp; &emsp; - Date and place of birth: 16/07/1991, Sant’Agnello, Italy <br>
-&emsp; &emsp; - Citizenship: Italian <br>
-&emsp; &emsp; - Phone: +33 0767387586
+&emsp; - Date and place of birth: 16/07/1991, Sant’Agnello, Italy <br>
+&emsp; - Citizenship: Italian <br>
+&emsp; - Phone: +33 0767387586
 
 <li><b>Language skills</b></li>
-&emsp; &emsp; Italian (native), English (fluent), French (intermediate)
+&emsp; Italian (native), English (fluent), French (intermediate)
     
 <li><b>Programming skills</b></li>
-&emsp; &emsp; Python, Matlab, Julia, SPSS, Stata
+&emsp; Python, Matlab, Julia, SPSS, Stata
     
 <li><b>Non-professional work experience</b></li>
-&emsp; &emsp; - Catering assistant / kitchen porter, Berry Recruitment, LoUghborough, United Kingdom, 01/2017 - 09/2017<br>
-&emsp; &emsp; - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017<br>
-&emsp; &emsp; - Lifeguard, swimming pool "La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009<br>
+&emsp; - Catering assistant / kitchen porter, Berry Recruitment, LoUghborough, United Kingdom, 01/2017 - 09/2017<br>
+&emsp; - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017<br>
+&emsp; - Lifeguard, swimming pool "La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009<br>
 
 <li><b>Passions and hobbies</b></li>
-&emsp; &emsp; I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dream is to become a pianist. 
+&emsp; I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dream is to become a pianist. 
 <hr>
 
 ### **External links**
