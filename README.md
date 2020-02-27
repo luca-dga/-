@@ -1,14 +1,12 @@
 
 
-
-
-
 Grenoble Ecole de Management <br>
 Department of Accounting, Law and Finance <br>
 12 Rue Pierre Semard <br>
 38000 Grenoble, France <br>
 Office F813b <br>
 Email: luca.degennaroaquino@grenoble-em.com <br>
+ 
  
   <div>
   <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#visiting-positions">Visiting positions</a> | <a href="#publications">Publications</a> | 
