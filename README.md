@@ -1,10 +1,11 @@
+<img src="photo_webpage.jpg" alt=" " align="right" style="vertical-align: top;"  width=270; height=280;>
 Grenoble Ecole de Management <br>
 Department of Accounting, Law and Finance <br>
 12 Rue Pierre Semard <br>
 38000 Grenoble, France <br>
 Office F813b <br>
 luca.degennaroaquino@grenoble-em.com <br>
-<img src="photo_webpage.jpg" alt=" " align="right" style="vertical-align: top;"  width=270; height=280;>
+
 
 <div>
  
