@@ -14,7 +14,7 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
    <a href="#working-papers">Working papers</a> | <a href="#teaching">Teaching</a> | <a href="#talks">Talks</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
   </div>
 
-<hr width="80%">
+<hr width="70%">
 
 <!--- <a href="https://raw.githubusercontent.com/luca-dga/-/master/CV_LucaDGA.pdf" target="_blank">Download CV</a>  --->
 
@@ -26,13 +26,12 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
    *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance <br>
    Advisor: Prof. <a href="http://www.carole.bernard.free.fr/" target="_blank">Carole Bernard</a>
     
-<hr width="80%">
+<hr width="70%">
     
 ### **Research interests**
 Computational finance; machine learning; risk measurement; decision theory
 
-
-<hr width="80%">
+<hr width="70%">
 
 ### **Education**
 
@@ -52,19 +51,19 @@ Computational finance; machine learning; risk measurement; decision theory
 <li><b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li> 
 &emsp; &emsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
    
-<hr width="80%">
+<hr width="70%">
 
 ### **Visiting positions**
 
 <li>University of Konstanz, Germany - Department of Mathematics, 09/2019 - 10/2019, invited by Prof. Michael Kupper and Stephan Eckstein </li>
 
-<hr width="80%">
+<hr width="70%">
 
 ### **Publications**
 
 <li>L. De Gennaro Aquino, C. Bernard, <i>Semi-analytical prices for lookback and barrier options under the Heston model</i>, Decisions in Economics and Finance, 42(2), 715-741 (2019)</li>
 
-<hr width="80%">
+<hr width="70%">
 
 ### **Working papers**
 
@@ -76,7 +75,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 <li>C. Bernard, L. De Gennaro Aquino, L. Levante, <i>Optimal annuities demand for general expected utility agents</i>, submitted</li>
 
-<hr width="80%">
+<hr width="70%">
 
 ### **Teaching**
 
@@ -88,7 +87,7 @@ Computational finance; machine learning; risk measurement; decision theory
 &emsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Grenoble, 09/2019<br>
 &emsp; - <i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019<br>
 
-<hr width="80%">
+<hr width="70%">
 
 ### **Talks**
 
@@ -97,7 +96,7 @@ Computational finance; machine learning; risk measurement; decision theory
 <li>Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019</li>
 <li>SIAM Conference on Financial Mathematics and Engineering, University of Toronto, Canada, 06/2019</li>
 
-<hr width="80%">
+<hr width="70%">
 
 ### **Miscellaneous**
 
@@ -120,7 +119,7 @@ Computational finance; machine learning; risk measurement; decision theory
 <li><b>Passions and hobbies</b></li>
 &emsp; I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dream is to become a pianist. 
 
-<hr width="80%">
+<hr width="70%">
 
 ### **External links**
 
