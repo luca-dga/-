@@ -6,8 +6,6 @@ Department of Accounting, Law and Finance <br>
 Office F813b <br>
 luca.degennaroaquino@grenoble-em.com <br>
 </div>
-
-<div>
  
   <div>
   <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#visiting-positions">Visiting positions</a> | <a href="#publications">Publications</a> | 
