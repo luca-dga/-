@@ -118,6 +118,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 <li><b>Passions and hobbies</b></li>
 &emsp; I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dream is to become a pianist. 
+
 <hr>
 
 ### **External links**
