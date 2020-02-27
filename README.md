@@ -1,4 +1,5 @@
-<img src="/photo_webpage.jpg" alt=" " align="right" style="vertical-align: top;"  width=260; height=270;/>
+<div> 
+<img src="photo_webpage.jpg" alt=" " align="right" style="vertical-align: top;"  width=260; height=270; />
 
 Grenoble Ecole de Management <br>
 Department of Accounting, Law and Finance <br>
@@ -6,7 +7,7 @@ Department of Accounting, Law and Finance <br>
 38000 Grenoble, France <br>
 Office F813b <br>
 luca.degennaroaquino@grenoble-em.com <br>
-
+</div>
 
 <div>
  
