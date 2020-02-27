@@ -12,8 +12,6 @@ luca.degennaroaquino@grenoble-em.com <br>
   <div>
    <a href="#working-papers">Working papers</a> | <a href="#teaching">Teaching</a> | <a href="#talks">Talks</a> | <a href="#other-miscellaneous-information">Other miscellaneous information</a> |  <a href="#external-links">External links</a> |
   </div>
-  
-</div>
 
 <hr width="75%">
 
