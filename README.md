@@ -11,7 +11,7 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
   <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#visiting-positions">Visiting positions</a> | <a href="#publications">Publications</a> | 
   </div>
   <div>
-   <a href="#working-papers">Working papers</a> | <a href="#teaching">Teaching</a> | <a href="#talks">Talks</a> | <a href="#other-miscellaneous-information">Other miscellaneous information</a> |  <a href="#external-links">External links</a> |
+   <a href="#working-papers">Working papers</a> | <a href="#teaching">Teaching</a> | <a href="#talks">Talks</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
   </div>
 
 <hr width="80%">
