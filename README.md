@@ -107,7 +107,7 @@ Computational finance; machine learning; risk measurement; decision theory
 &emsp; Italian (native), English (fluent), French (intermediate)
     
 <li><b>Programming skills</b></li>
-&emsp; Python, Matlab, Julia, SPSS, Stata
+&emsp; Python, Matlab, SPSS, Stata
     
 <li><b>Non-professional work experience</b></li>
 &emsp; - Catering assistant / kitchen porter, Berry Recruitment, Loughborough, United Kingdom, 01/2017 - 09/2017<br>
