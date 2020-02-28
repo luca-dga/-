@@ -110,7 +110,7 @@ Computational finance; machine learning; risk measurement; decision theory
 &emsp; Python, Matlab, Julia, SPSS, Stata
     
 <li><b>Non-professional work experience</b></li>
-&emsp; - Catering assistant / kitchen porter, Berry Recruitment, LoUghborough, United Kingdom, 01/2017 - 09/2017<br>
+&emsp; - Catering assistant / kitchen porter, Berry Recruitment, Loughborough, United Kingdom, 01/2017 - 09/2017<br>
 &emsp; - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017<br>
 &emsp; - Lifeguard, swimming pool "La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009<br>
 
