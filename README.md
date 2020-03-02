@@ -65,13 +65,13 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Working papers**
 
-<li>L. De Gennaro Aquino, S. Eckstein, M. Kupper. Primal-dual methods for optimal transport and related problems</li>
+<li>L. De Gennaro Aquino, S. Eckstein, M. Kupper. Primal-dual methods for optimal transport and related problems.</li>
 
-<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Cost-efficiency and multivariate expected utility maximization</li>
+<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Cost-efficiency and multivariate expected utility maximization.</li>
 
-<li>L. De Gennaro Aquino, C. Bernard. Bounds on multi-asset derivatives via neural networks. Submitted. Preprint available on <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">arXiv:1911.05523</a> </li>
+<li>L. De Gennaro Aquino, C. Bernard. Bounds on multi-asset derivatives via neural networks. Submitted. Preprint available on <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">arXiv:1911.05523</a>. </li>
 
-<li>C. Bernard, L. De Gennaro Aquino, L. Levante. Optimal annuities demand for general expected utility agents. Submitted</li>
+<li>C. Bernard, L. De Gennaro Aquino, L. Levante. Optimal annuities demand for general expected utility agents. Submitted.</li>
 
 <hr width="100%">
 
