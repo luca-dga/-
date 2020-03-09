@@ -111,7 +111,7 @@ Computational finance; machine learning; risk measurement; decision theory
 &emsp; - Lifeguard, swimming pool "La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009<br>
 
 <li><b>Passions and hobbies</b></li>
-&emsp; I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading and running / biking my escapisms. My biggest dream is to become a pianist. 
+&emsp; I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading, running and biking my escapisms. My biggest dream is to become a pianist. 
 
 <hr width="100%">
 
