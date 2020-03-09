@@ -3,6 +3,7 @@ Department of Accounting, Law and Finance <br>
 12 Rue Pierre Semard <br>
 38000 Grenoble, France <br>
 Office: F813b <br>
+Phone: +33 0767387586
 Email: luca.degennaroaquino@grenoble-em.com <br>
  
 <div>
@@ -97,11 +98,6 @@ Computational finance; machine learning; risk measurement; decision theory
 <hr width="100%">
 
 ### **Miscellaneous**
-
-<li><b>Personal information</b></li>
-&emsp; - Date and place of birth: 16/07/1991, Sant’Agnello, Italy <br>
-&emsp; - Citizenship: Italian <br>
-&emsp; - Phone: +33 0767387586
 
 <li><b>Language skills</b></li>
 &emsp; Italian (native), English (fluent), French (intermediate)
