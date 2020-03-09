@@ -3,7 +3,7 @@ Department of Accounting, Law and Finance <br>
 12 Rue Pierre Semard <br>
 38000 Grenoble, France <br>
 Office: F813b <br>
-Phone: +33 0767387586
+Phone: +33 0767387586 <br>
 Email: luca.degennaroaquino@grenoble-em.com <br>
  
 <div>
