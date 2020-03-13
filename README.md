@@ -66,7 +66,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Working papers**
 
-<li>L. De Gennaro Aquino, S. Eckstein, M. Kupper. Primal-dual methods for optimal transport and related problems. 2020. </li>
+<li>L. De Gennaro Aquino, S. Eckstein, M. Kupper. <b> Primal-dual methods for optimal transport and related problems. </b> 2020. </li>
 
 <li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Cost-efficiency and multivariate expected utility maximization. 2020. </li>
 
