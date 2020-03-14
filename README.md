@@ -93,7 +93,7 @@ Computational finance; machine learning; risk measurement; decision theory
 <li>Research in Options, IMPA, Rio de Janeiro, Brasil, 12/2019</li>
 <li>Research seminar, University of Konstanz, Germany, 10/2019</li>
 <li>Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019</li>
-<li>SIAM Conference on Financial Mathematics and Engineering, University of Toronto, Canada, 06/2019</li>
+<li>SIAM Conference on Financial Mathematics and Engineering (poster session), University of Toronto, Canada, 06/2019</li>
 
 <hr width="100%">
 
