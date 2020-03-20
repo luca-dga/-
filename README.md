@@ -7,7 +7,7 @@ Phone: +33 0767387586 <br>
 Email: luca.degennaroaquino@grenoble-em.com <br>
  
 <div>
-  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#visiting-positions">Visiting positions</a> | <a href="#publications">Publications</a> | 
+  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#employment">Employment</a>| <a href="#visiting-positions">Visiting positions</a> | <a href="#publications">Publications</a> | 
   </div>
   <div>
    <a href="#working-papers">Working papers</a> | <a href="#teaching">Teaching</a> | <a href="#talks-and-conference-presentations">Talks and conference presentations</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
@@ -50,6 +50,13 @@ Computational finance; machine learning; risk measurement; decision theory
 <li><b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li> 
 &emsp; &emsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
    
+<hr width="100%">
+
+### **Employment**
+
+<li><b>Research Assistant and Lecturer </b>, 09/2017 - present </li> 
+&emsp; &emsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	  
+
 <hr width="100%">
 
 ### **Visiting positions**
