@@ -54,7 +54,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Employment**
 
-<li><b>Research Assistant and Lecturer </b>, 09/2017 - present </li> 
+<li><b>Research assistant and lecturer </b>, 09/2017 - present </li> 
 &emsp; &emsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	  
 
 <hr width="100%">
