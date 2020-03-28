@@ -110,11 +110,6 @@ Computational finance; machine learning; risk measurement; decision theory
     
 <li><b>Programming skills</b></li>
 &emsp; Python, Matlab, SPSS, Stata
-    
-<li><b>Non-professional work experience</b></li>
-&emsp; - Catering assistant / kitchen porter, Berry Recruitment, Loughborough, United Kingdom, 01/2017 - 09/2017<br>
-&emsp; - Waiter, restaurant "108 World Buffet and Bar", Loughborough, United Kingdom, 10/2016 - 09/2017<br>
-&emsp; - Lifeguard, swimming pool "La Lisca", Piano di Sorrento, Italy, 06/2007 - 08/2009<br>
 
 <li><b>Passions and hobbies</b></li>
 &emsp; I am a committed fine diner and food traveler. Blues rock and jazz are my sources of inspiration, reading, running and biking my escapisms. My biggest dream is to become a pianist. 
