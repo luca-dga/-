@@ -78,7 +78,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 <li>L. De Gennaro Aquino, C. Bernard. Bounds on multi-asset derivatives via neural networks. Submitted, 2020. Preprint available on <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">arXiv:1911.05523</a>. </li>
 
-<li>C. Bernard, L. De Gennaro Aquino, L. Levante. Optimal annuities demand for general expected utility agents. Submitted, 2019. </li>
+<li>C. Bernard, L. De Gennaro Aquino, L. Levante. Optimal annuities demand for general expected utility agents. Submitted, 2019. Preprint available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578370" target="_blank">SSRN 3578370</a>. </li>
 
 <hr width="100%">
 
