@@ -72,7 +72,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Working papers**
 
-<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Cost-efficiency and multivariate expected utility maximization. 2020. </li>
+<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Improving multiasset allocation via cost-efficient strategies. 2020. </li>
 
 <li>L. De Gennaro Aquino, S. Eckstein. Primal-dual methods for optimal transport and related problems. Submitted, 2020. </li>
 
