@@ -65,7 +65,7 @@ Computational finance; machine learning; risk measurement; decision theory
 <hr width="100%">
 
 ### **Publications**
-<li>L. De Gennaro Aquino, S. Eckstein. MinMax Methods for Optimal Transport and Beyond: Regularization, Approximation and Numerics. Accepted to NeurIPS 2020. </li>
+<li>L. De Gennaro Aquino, S. Eckstein. MinMax Methods for Optimal Transport and Beyond: Regularization, Approximation and Numerics. Accepted to Neural Information Processing Systems 2020. </li>
 
 <li>L. De Gennaro Aquino, C. Bernard. Semi-analytical prices for lookback and barrier options under the Heston model. <i>Decisions in Economics and Finance,</i> 42(2), 715-741 (2019).</li>
 
