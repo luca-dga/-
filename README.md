@@ -115,7 +115,7 @@ Computational finance; machine learning; risk measurement; decision theory
 &emsp; Python, Matlab, SPSS, Stata
 
 <li><b>Passions and hobbies</b></li>
-&emsp; I am a committed fine diner and food traveler. Reading, running and biking are my escapisms, blues rock and jazz my sources of inspiration. My biggest dream is to become a pianist. 
+&emsp; I am a committed fine diner and food traveler. Reading, running and biking are my escapisms, blues rock and jazz my sources of inspiration. I like Tom Waits, apple pie and German Riesling. My biggest dream is to become a pianist. 
 
 <hr width="100%">
 
