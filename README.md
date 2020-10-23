@@ -65,7 +65,7 @@ Computational finance; machine learning; risk measurement; decision theory
 <hr width="100%">
 
 ### **Publications**
-<li>L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. Accepted to <i> Neural Information Processing Systems </i> 2020. </li>
+<li>L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. Accepted to <i> Neural Information Processing Systems </i> 2020. Preprint available at <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank">arXiv:2010.11502</a>. </li> </li>
 
 <li>C. Bernard, L. De Gennaro Aquino, L. Levante. Optimal annuity demand for general expected utility agents. Forthcoming in <i>Insurance: Mathematics and Economics</i>, 2020. Preprint available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578370" target="_blank">SSRN 3578370</a>. </li>
 
