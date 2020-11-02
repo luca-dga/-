@@ -65,7 +65,7 @@ Computational finance; machine learning; risk measurement; decision theory
 <hr width="100%">
 
 ### **Publications**
-<li>L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. Forthcoming in <i> Advances in Neural Information Processing Systems </i>, 2020. Preprint available at <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank">arXiv:2010.11502</a>. </li>
+<li>L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. Forthcoming in <i> Advances in Neural Information Processing Systems</i>, 2020. Preprint available at <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank">arXiv:2010.11502</a>. </li>
 
 <li>L. De Gennaro Aquino, C. Bernard. Bounds on multi-asset derivatives via neural networks. Forthcoming in <i>International Journal of Theoretical and Applied Finance</i>, 2020.  Preprint available at <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">arXiv:1911.05523</a>. </li>
 
