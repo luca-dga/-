@@ -104,11 +104,8 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Miscellaneous**
 
-<li><b>Language skills</b></li>
+<li><b>Languages</b></li>
 &emsp; Italian (native), English (fluent), French (intermediate)
-    
-<li><b>Programming skills</b></li>
-&emsp; Python, Matlab, SPSS, Stata
 
 <li><b>Passions and hobbies</b></li>
 &emsp; I am a committed fine diner and food traveler. I like Tom Waits, German Rieslings and apple pie. My biggest dream is to become a pianist. 
