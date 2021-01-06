@@ -14,7 +14,7 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
 
 <!--- <hr width="25%"> --->   
 ### **Current position**
-I am a postdoctoral fellow in the group led by Prof. Moris Simon Strub at the Southern University of Science and Technology, Shenzhen. 
+I am a postdoctoral fellow in the group led by Prof. Moris Simon Strub at the Southern University of Science and Technology, Shenzhen. <br>
 Currently still based in Italy.
 
 ### **Research interests**
