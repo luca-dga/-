@@ -18,20 +18,17 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
 
 <!--- <hr width="25%"> --->
 
- 
-### **Current position**
-   <b>PhD student in Mathematical Finance</b>, 09/2017 - present  <br>
-   *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance <br>
-   Advisor: Prof. <a href="http://www.carole.bernard.free.fr/" target="_blank">Carole Bernard</a>
-    
-<hr width="100%">
-    
+   
 ### **Research interests**
 Computational finance; machine learning; risk measurement; decision theory
 
 <hr width="100%">
 
 ### **Education**
+
+ <li><b>PhD student in Mathematical Finance</b>, 09/2017 - present  <br></li> 
+ &emsp; &emsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance <br>
+ &emsp; &emsp;   Advisor: Prof. <a href="http://www.carole.bernard.free.fr/" target="_blank">Carole Bernard</a>
 
 <li><b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li> 
 &emsp; &emsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	  
