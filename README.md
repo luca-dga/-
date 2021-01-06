@@ -1,7 +1,3 @@
-Grenoble Ecole de Management <br>
-Department of Accounting, Law and Finance <br>
-12 Rue Pierre Semard, 38000 Grenoble, France <br>
-Office: F813b <br>
 Phone: +33 0767387586 <br>
 Email: luca.degennaroaquino@grenoble-em.com <br>
  
@@ -16,9 +12,11 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
 
 <!--- <a href="https://raw.githubusercontent.com/luca-dga/-/master/CV_LucaDGA.pdf" target="_blank">Download CV</a>  --->
 
-<!--- <hr width="25%"> --->
+<!--- <hr width="25%"> --->   
+### **Current position**
+I am a postdoctoral researcher in the group led by Prof. Moris Simon Strub at the Southern University of Science and Technology, Shenzhen. 
+Currently still based in Italy.
 
-   
 ### **Research interests**
 Computational finance; machine learning; risk measurement; decision theory
 
@@ -26,7 +24,7 @@ Computational finance; machine learning; risk measurement; decision theory
 
 ### **Education**
 
- <li><b>PhD student in Mathematical Finance</b>, 09/2017 - present  <br></li> 
+ <li><b>PhD student in Mathematical Finance</b>, 09/2017 - 11/2020  <br></li> 
  &emsp; &emsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance <br>
  &emsp; &emsp;   Advisor: Prof. <a href="http://www.carole.bernard.free.fr/" target="_blank">Carole Bernard</a>
 
