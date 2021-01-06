@@ -14,8 +14,7 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
 
 <!--- <hr width="25%"> --->   
 ### **Current position**
-I am a postdoctoral fellow in the group led by Prof. Moris Simon Strub at the Southern University of Science and Technology, Shenzhen. <br>
-Currently still based in Italy.
+I am joining as a postodoctoral fellow the research group led by Prof. Moris Simon Strub at the Southern University of Science and Technology, Shenzhen. <br>
 
 ### **Research interests**
 Computational finance; machine learning; risk measurement; portfolio optimization
