@@ -72,7 +72,7 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 
 ### **In progress**
 
-<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Improving multi-asset allocation via cost-efficient strategies. 2020. </li>
+<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Cost-efficient allocations and collective decision making. 2020. </li>
 
 <hr width="100%">
 
