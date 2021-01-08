@@ -72,7 +72,7 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 
 ### **In progress**
 
-<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Cost-efficient allocations and collective decision making. 2020. </li>
+<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Optimal collective financial decision making. 2021. </li>
 
 <hr width="100%">
 
