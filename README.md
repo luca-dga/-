@@ -90,7 +90,7 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 <hr width="100%">
 
 ### **Talks and presentations**
-
+<li>Neural Information Processing Systems, online, 12/2020</li>
 <li>Research in Options, IMPA, Rio de Janeiro, Brasil, 12/2019</li>
 <li>Research seminar, University of Konstanz, Germany, 10/2019</li>
 <li>Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019</li>
