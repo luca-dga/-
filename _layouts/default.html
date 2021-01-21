@@ -33,13 +33,16 @@ body {
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   
- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link href="style.css" rel="stylesheet" type="text/css" />
+  img {
+  border-radius: 90%;
+}
   <body>
 
     <header class="page-header" role="banner">
       <p>
       <h3 class="project-name">Luca De Gennaro Aquino</h3> <br>
-      <img class="w3-round-large" src="photo_webpage.jpg" style="float:right; margin-right: margin: 0.4cm 0cm 0cm 1cm;" width=240 height=250 />  <br>
+      <img src="photo_webpage.jpg" style="float:right; margin-right: margin: 0.4cm 0cm 0cm 1cm;" width=240 height=250 />  <br>
       <h4 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h4>
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
