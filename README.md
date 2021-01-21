@@ -8,7 +8,7 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
    <a href="#working-papers">Working papers</a> | <a href="#teaching">Teaching</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
   </div>
 
-<hr width="70%">
+<hr width="80%">
 
 <!--- <a href="https://raw.githubusercontent.com/luca-dga/-/master/CV_LucaDGA.pdf" target="_blank">Download CV</a>  --->
 
