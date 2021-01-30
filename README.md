@@ -1,15 +1,3 @@
-.arrow {
-  border: solid black;
-  border-width: 0 3px 3px 0;
-  display: inline-block;
-  padding: 3px;
-}
-
-.right {
-  transform: rotate(-45deg);
-  -webkit-transform: rotate(-45deg);
-}
-
 Phone: +33 0767387586 <br>
 Email: luca.degennaroaquino@grenoble-em.com <br>
 
@@ -73,7 +61,7 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 <hr width="100%">
 
 ### **Publications**
-<li>L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. <i><b> Advances in Neural Information Processing Systems 33</b></i>, 2020. <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank"> <i class="arrow right"></i> preprint </a> </li>
+<li>L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. <i><b> Advances in Neural Information Processing Systems 33</b></i>, 2020. <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank"> <div class="arrow-right"></div> preprint </a> </li>
 
 <li>C. Bernard, L. De Gennaro Aquino, L. Levante. Optimal annuity demand for general expected utility agents. Forthcoming in <i><b>Insurance: Mathematics and Economics</b></i>, 2020. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578370" target="_blank"> <i class="arrow right"></i> preprint </a>  </li>
 
