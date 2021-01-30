@@ -1,6 +1,9 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
 Phone: +33 0767387586 <br>
 Email: luca.degennaroaquino@grenoble-em.com <br>
-  
+
+
 <div>
   <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#employment">Employment</a> | <a href="#visiting-positions">Visiting positions</a> | <a href="#publications">Publications</a> | 
   </div>
