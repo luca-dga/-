@@ -1,5 +1,14 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href='https://css.gg/arrow-right.css' rel='stylesheet'>
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
 
 Phone: +33 0767387586 <br>
 Email: luca.degennaroaquino@grenoble-em.com <br>
