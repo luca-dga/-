@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-@import url('https://css.gg/arrow-left.css');
+@import url('https://css.gg/arrow-right.css');
 
 Phone: +33 0767387586 <br>
 Email: luca.degennaroaquino@grenoble-em.com <br>
