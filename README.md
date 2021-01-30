@@ -60,13 +60,13 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 <hr width="100%">
 
 ### **Publications**
-<li>L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. <i><b> Advances in Neural Information Processing Systems 33</b></i>, 2020. Preprint: <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank">arXiv:2010.11502</a>. </li>
+<li>L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. <i><b> Advances in Neural Information Processing Systems 33</b></i>, 2020. <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank">{Preprint}.</a> </li>
 
-<li>C. Bernard, L. De Gennaro Aquino, L. Levante. Optimal annuity demand for general expected utility agents. Forthcoming in <i><b>Insurance: Mathematics and Economics</b></i>, 2020. Preprint: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578370" target="_blank">SSRN 3578370</a>. </li>
+<li>C. Bernard, L. De Gennaro Aquino, L. Levante. Optimal annuity demand for general expected utility agents. Forthcoming in <i><b>Insurance: Mathematics and Economics</b></i>, 2020. Preprint: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578370" target="_blank">{Preprint}</a> </li>
 
-<li>L. De Gennaro Aquino, C. Bernard. Bounds on multi-asset derivatives via neural networks. <i><b>International Journal of Theoretical and Applied Finance</b></i>, 23(8), 2020.  Preprint: <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">arXiv:1911.05523</a>. </li>
+<li>L. De Gennaro Aquino, C. Bernard. Bounds on multi-asset derivatives via neural networks. <i><b>International Journal of Theoretical and Applied Finance</b></i>, 23(8), 2020.  Preprint: <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">{Preprint}</a> </li>
 
-<li>L. De Gennaro Aquino, C. Bernard. Semi-analytical prices for lookback and barrier options under the Heston model. <i><b>Decisions in Economics and Finance</b></i>, 42(2), 2020. Preprint: <a href="https://www.dropbox.com/s/s8gid3ndumj8mcf/De%20Gennaro%20Aquino%20and%20Bernard%20-%20Semi-analytical%20prices%20for%20lookback%20and%20barrier%20options%20under%20the%20Heston%20model.pdf?dl=0" target="_blank"><span class="pdf-icon"></span></a>.   </li>
+<li>L. De Gennaro Aquino, C. Bernard. Semi-analytical prices for lookback and barrier options under the Heston model. <i><b>Decisions in Economics and Finance</b></i>, 42(2), 2020. Preprint: <a href="https://www.dropbox.com/s/s8gid3ndumj8mcf/De%20Gennaro%20Aquino%20and%20Bernard%20-%20Semi-analytical%20prices%20for%20lookback%20and%20barrier%20options%20under%20the%20Heston%20model.pdf?dl=0" target="_blank">{Preprint}</a>   </li>
 
 <hr width="100%">
 
