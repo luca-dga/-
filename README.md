@@ -17,7 +17,7 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
 
 <!--- <hr width="25%"> --->   
 ### **Current position**
- <li><b>Postdoctoral Fellow</b>, 11/2020 - present  <br></li> 
+ <b>Postdoctoral Fellow</b>, 11/2020 - present  <br>
  &emsp; &emsp; Southern University of Science and Technology, China - Department of Information Systems and Management Engineering <br>
  &emsp; &emsp; Advisor: Prof. <a href="https://sites.google.com/view/morisstrub/home" target="_blank">Moris Simon Strub</a> <br>
 
