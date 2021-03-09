@@ -26,7 +26,7 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 
 ### **Education**
 
- <li><b>PhD student in Mathematical Finance</b>, 09/2017 - 11/2020  <br></li> 
+ <li><b>PhD in Mathematical Finance</b>, 09/2017 - 11/2020  <br></li> 
  &emsp; &emsp; Grenoble Ecole de Management, France - Department of Law, Accounting and Finance <br>
  &emsp; &emsp; Advisor: Prof. <a href="http://www.carole.bernard.free.fr/" target="_blank">Carole Bernard</a> <br>
  &emsp; &emsp; Thesis: *Robust decision making, model uncertainty and computational optimal transport*
