@@ -27,32 +27,32 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 ### **Education**
 
  <li><b>PhD student in Mathematical Finance</b>, 09/2017 - 11/2020  <br></li> 
- &emsp; &emsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance <br>
+ &emsp; &emsp; Grenoble Ecole de Management, France - Department of Law, Accounting and Finance <br>
  &emsp; &emsp; Advisor: Prof. <a href="http://www.carole.bernard.free.fr/" target="_blank">Carole Bernard</a> <br>
  &emsp; &emsp; Thesis: *Robust decision making, model uncertainty and computational optimal transport*
 
 <li><b>MPhil in Business Administration</b>, 09/2017 - 09/2019 </li> 
-&emsp; &emsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	  
+&emsp; &emsp; Grenoble Ecole de Management, France - Department of Law, Accounting and Finance 	  
 
 <li><b>MSc in Mathematical Finance</b> (with Distinction), 09/2016 - 09/2017 </li>
-&emsp; &emsp; *Loughborough University*, United Kingdom - Department of Mathematical Sciences <br>
+&emsp; &emsp; Loughborough University, United Kingdom - Department of Mathematical Sciences <br>
 &emsp; &emsp; Advisor: Prof. József Lörinczi <br>
 &emsp; &emsp; Thesis: *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
 
 <li><b>MSc in Finance and Insurance</b> (with Honors), 10/2013 - 07/2016 </li>
-&emsp; &emsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics <br>
+&emsp; &emsp; University of Rome “La Sapienza”, Italy - Faculty of Economics <br>
 &emsp; &emsp; Advisor: Prof. Maria Chiarolla <br>
 &emsp; &emsp; Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
     
 <li><b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li> 
-&emsp; &emsp; *University of Rome “La Sapienza”*, Italy - Faculty of Economics
+&emsp; &emsp; University of Rome “La Sapienza”, Italy - Faculty of Economics
    
 <hr width="100%">
 
 ### **Employment**
 
 <li><b>Research assistant and lecturer </b>, 09/2017 - 11/2020 </li> 
-&emsp; &emsp; *Grenoble Ecole de Management*, France - Department of Law, Accounting and Finance 	  
+&emsp; &emsp; Grenoble Ecole de Management, France - Department of Law, Accounting and Finance 	  
 
 <hr width="100%">
 
