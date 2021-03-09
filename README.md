@@ -109,10 +109,10 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 ### **Miscellaneous**
 
 <li><b>Languages</b></li>
-&emsp; Italian (native), English (fluent), French (intermediate)
+&emsp; &emsp; Italian (native), English (fluent), French (intermediate)
 
 <li><b>Passions and hobbies</b></li>
-&emsp; I am a committed fine diner and food traveler. I like Tom Waits, German Rieslings and apple pie. My biggest dream is to become a pianist. 
+&emsp; &emsp; I am a committed fine diner and food traveler. I like Tom Waits, German Rieslings and apple pie. My biggest dream is to become a pianist. 
 
 <hr width="100%">
 
