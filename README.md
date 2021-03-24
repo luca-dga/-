@@ -8,7 +8,7 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
   <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#employment">Employment</a> | <a href="#visiting-positions">Visiting positions</a> | <a href="#publications">Publications</a> | 
   </div>
   <div>
-   <a href="#working-papers">Working papers</a> | <a href="#teaching">Teaching</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
+   <a href="#working-papers">Working papers</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
   </div>
 
 <hr width="80%">
@@ -84,6 +84,15 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 
 <hr width="100%">
 
+### **Talks and presentations**
+<li>Neural Information Processing Systems, online, 12/2020</li>
+<li>Research in Options, IMPA, Rio de Janeiro, Brasil, 12/2019</li>
+<li>Research seminar, University of Konstanz, Germany, 10/2019</li>
+<li>Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019</li>
+<li>SIAM Conference on Financial Mathematics and Engineering, University of Toronto, Canada, 06/2019</li>
+
+<hr width="100%">
+
 ### **Teaching**
 
 <li>Grenoble Ecole de Management</li>
@@ -94,15 +103,6 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 &emsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Singapore, 10/2019<br>
 &emsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Grenoble, 09/2019<br>
 &emsp; - <i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019<br>
-
-<hr width="100%">
-
-### **Talks and presentations**
-<li>Neural Information Processing Systems, online, 12/2020</li>
-<li>Research in Options, IMPA, Rio de Janeiro, Brasil, 12/2019</li>
-<li>Research seminar, University of Konstanz, Germany, 10/2019</li>
-<li>Vienna Congress on Mathematical Finance, University of Vienna, Austria, 09/2019</li>
-<li>SIAM Conference on Financial Mathematics and Engineering, University of Toronto, Canada, 06/2019</li>
 
 <hr width="100%">
 
