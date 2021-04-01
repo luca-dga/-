@@ -80,7 +80,7 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 
 ### **In progress**
 
-<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Optimal collective financial decision making. 2021. </li>
+<li>C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Optimal collective financial decision making. </li>
 
 <hr width="100%">
 
