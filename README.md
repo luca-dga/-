@@ -85,6 +85,7 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 <hr width="100%">
 
 ### **Talks and presentations**
+<li>SIAM Conference on Financial Mathematics and Engineering, online, 06/2021</li>
 <li>Neural Information Processing Systems, online, 12/2020</li>
 <li>Research in Options, IMPA, Rio de Janeiro, Brasil, 12/2019</li>
 <li>Research seminar, University of Konstanz, Germany, 10/2019</li>
