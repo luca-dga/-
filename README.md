@@ -86,6 +86,7 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 
 ### **Talks and presentations**
 <li>SIAM Conference on Financial Mathematics and Engineering, virtual, 06/2021</li>
+<li>PKU-NUS Annual International Conference on Quantitative Finance and Economics, virtual, 05/2021</li>
 <li>Neural Information Processing Systems, virtual, 12/2020</li>
 <li>Research in Options, IMPA, Rio de Janeiro, Brasil, 12/2019</li>
 <li>Research seminar, University of Konstanz, Germany, 10/2019</li>
