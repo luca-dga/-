@@ -55,8 +55,10 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 <hr width="100%">
 
 ### **Employment**
+<li><b>Postdoctoral Fellow </b>, 11/2020 - present </li>
+&emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering
 
-<li><b>Research assistant and lecturer </b>, 09/2017 - 11/2020 </li> 
+<li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li> 
 &emsp; Grenoble Ecole de Management, France - Department of Law, Accounting and Finance 	  
 
 <hr width="100%">
