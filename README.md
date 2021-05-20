@@ -32,25 +32,25 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 ### **Education**
 
  <li><b>PhD in Mathematical Finance</b>, 09/2017 - 11/2020  <br></li> 
- &emsp; Grenoble Ecole de Management, France - Department of Law, Accounting and Finance <br>
+ &emsp; Grenoble Ecole de Management, Grenoble, France - Department of Law, Accounting and Finance <br>
  &emsp; Advisor: Prof. <a href="http://www.carole.bernard.free.fr/" target="_blank">Carole Bernard</a> <br>
  &emsp; Thesis: *Robust decision making, model uncertainty and computational optimal transport*
 
 <li><b>MPhil in Business Administration</b> (specialization in Finance), 09/2017 - 09/2019 </li> 
-&emsp; Grenoble Ecole de Management, France - Department of Law, Accounting and Finance 	  
+&emsp; Grenoble Ecole de Management, Grenoble, France - Department of Law, Accounting and Finance 	  
 
 <li><b>MSc in Mathematical Finance</b> (with Distinction), 09/2016 - 09/2017 </li>
-&emsp; Loughborough University, United Kingdom - Department of Mathematical Sciences <br>
+&emsp; Loughborough University, Loughborough, United Kingdom - Department of Mathematical Sciences <br>
 &emsp; Advisor: Prof. József Lörinczi <br>
 &emsp; Thesis: *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
 
 <li><b>MSc in Finance and Insurance</b> (with Honors), 10/2013 - 07/2016 </li>
-&emsp; University of Rome “La Sapienza”, Italy - Faculty of Economics <br>
+&emsp; University of Rome “La Sapienza”, Rome, Italy - Faculty of Economics <br>
 &emsp; Advisor: Prof. Maria Chiarolla <br>
 &emsp; Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
     
 <li><b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li> 
-&emsp; University of Rome “La Sapienza”, Italy - Faculty of Economics
+&emsp; University of Rome “La Sapienza”, Rome, Italy - Faculty of Economics
    
 <hr width="100%">
 
@@ -59,13 +59,13 @@ Computational finance; machine learning; risk measurement; portfolio optimizatio
 &emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering
 
 <li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li> 
-&emsp; Grenoble Ecole de Management, France - Department of Law, Accounting and Finance 	  
+&emsp; Grenoble Ecole de Management, Grenoble, France - Department of Law, Accounting and Finance 	  
 
 <hr width="100%">
 
 ### **Visiting positions**
 
-<li>University of Konstanz, Germany - Department of Mathematics, 09/2019 - 10/2019, invited by Prof. Michael Kupper and Stephan Eckstein </li>
+<li>University of Konstanz, Konstanz, Germany - Department of Mathematics, 09/2019 - 10/2019, invited by Prof. Michael Kupper and Stephan Eckstein </li>
 
 <hr width="100%">
 
