@@ -25,7 +25,7 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
 <hr width="80%">
 
 ### **Research interests**
-Portfolio optimization; computational finance; machine learning; decision theory
+Portfolio optimization; decision theory; computational finance; machine learning
 
 <hr width="100%">
 
