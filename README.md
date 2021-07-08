@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
-Phone: +33 0767387586 <br>
+Phone: +86 18129875351 <br>
 Email: luca.degennaroaquino@grenoble-em.com <br>
 
 
@@ -25,7 +25,7 @@ Email: luca.degennaroaquino@grenoble-em.com <br>
 <hr width="80%">
 
 ### **Research interests**
-Portfolio optimization; computational finance; machine learning; risk measurement
+Portfolio optimization; computational finance; machine learning; decision theory
 
 <hr width="100%">
 
