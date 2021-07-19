@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
-Southern University of Science and Technology
-Department of Information Systems and Management Engineering
-Taizhou Building, 1088 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong, China
-Office: 501-1-3
+Southern University of Science and Technology <br>
+Department of Information Systems and Management Engineering <br>
+Taizhou Building, 1088 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong, China <br>
+Office: 501-1-3 <br>
 Phone: +86 18129875351 <br>
 Email: luca.degennaroaquino@grenoble-em.com <br>
 
