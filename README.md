@@ -5,7 +5,7 @@ Department of Information Systems and Management Engineering <br>
 Taizhou Building, 1088 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong, China <br>
 Office: 501-1-4 <br>
 Phone: +86 18129875351 <br>
-Email: luca.degennaroaquino@grenoble-em.com <br>
+Email: degennaroaquino@sustech.edu.cn <br>
 
 
 <div>
