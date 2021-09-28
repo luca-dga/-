@@ -84,7 +84,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 
 <hr width="100%">
 
-### **In progress**
+### **Working papers**
 
 <li> L. De Gennaro Aquino, D. Sornette, M. S. Strub. Portfolio selection with exploration of new investment opportunities. </li>
 
