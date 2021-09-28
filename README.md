@@ -2,7 +2,7 @@
 
 Southern University of Science and Technology <br>
 Department of Information Systems and Management Engineering <br>
-Taizhou Building, 1088 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong, China <br>
+Taizhou Building, 1088 Xueyuan Avenue, Nanshan District, Shenzhen 518055, Guangdong, China <br>
 Office: 501-1-4 <br>
 Phone: +86 18129875351 <br>
 Email: degennaroaquino@sustech.edu.cn <br>
