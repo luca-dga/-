@@ -86,8 +86,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 
 ### **Working papers**
 
-<li> L. De Gennaro Aquino, D. Sornette, M. S. Strub. Portfolio selection with exploration of new investment opportunities. Submitted, 2021. </li>
-
+<li> L. De Gennaro Aquino, D. Sornette, M. S. Strub. Portfolio selection with exploration of new investment opportunities. Submitted, 2021. &emsp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3625492" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li> 
 
 <li> C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Optimal multivariate financial decision making. Submitted, 2021. &emsp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931992" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
