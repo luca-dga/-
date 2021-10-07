@@ -1,5 +1,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
-
+  .vl {
+  border-left: 6px solid green;
+  height: 500px;
+  position: absolute;
+  left: 90%;
+  margin-left: -3px;
+  top: 0;
+  }
 Southern University of Science and Technology <br>
 Department of Information Systems and Management Engineering <br>
 Taizhou Building, 1088 Xueyuan Avenue, Nanshan District, Shenzhen 518055, Guangdong, China <br>
