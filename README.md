@@ -9,10 +9,10 @@ Email: degennaroaquino@sustech.edu.cn <br>
 
 
 <div>
-  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#employment">Employment</a> | <a href="#visiting-positions">Visiting positions</a> | <a href="#publications">Publications</a> | 
+  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#employment">Employment</a> | <a href="#visiting-positions">Visiting positions</a> | <a href="#working-papers">Working papers</a>| 
   </div>
   <div>
-   <a href="#working-papers">Working papers</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
+  <a href="#publications">Publications</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
   </div>
 
 <hr width="80%">
@@ -73,6 +73,14 @@ Portfolio optimization; decision theory; computational finance; machine learning
 
 <hr width="100%">
 
+### **Working papers**
+
+<li> L. De Gennaro Aquino, D. Sornette, M. S. Strub. Portfolio selection with exploration of new investment opportunities. Submitted, 2021. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3625492" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li> 
+
+<li> C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Optimal multivariate financial decision making. Submitted, 2021. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931992" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
+
+<hr width="100%">
+
 ### **Publications**
 <li style="padding-bottom: 2px;">L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. <i><b> Advances in Neural Information Processing Systems 33 (NeurIPS 2020)</b></i>. &ensp; <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank"> <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
@@ -81,14 +89,6 @@ Portfolio optimization; decision theory; computational finance; machine learning
 <li style="padding-bottom: 2px;">L. De Gennaro Aquino, C. Bernard. Bounds on multi-asset derivatives via neural networks. <i><b>International Journal of Theoretical and Applied Finance</b></i>, 23(8), 2020. &ensp; <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
 <li style="padding-bottom: 2px;">L. De Gennaro Aquino, C. Bernard. Semi-analytical prices for lookback and barrier options under the Heston model. <i><b>Decisions in Economics and Finance</b></i>, 42(2), 2020. &ensp; <a href="https://www.dropbox.com/s/s8gid3ndumj8mcf/De%20Gennaro%20Aquino%20and%20Bernard%20-%20Semi-analytical%20prices%20for%20lookback%20and%20barrier%20options%20under%20the%20Heston%20model.pdf?dl=0" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
-
-<hr width="100%">
-
-### **Working papers**
-
-<li> L. De Gennaro Aquino, D. Sornette, M. S. Strub. Portfolio selection with exploration of new investment opportunities. Submitted, 2021. &emsp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3625492" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li> 
-
-<li> C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Optimal multivariate financial decision making. Submitted, 2021. &emsp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931992" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
 <hr width="100%">
 
