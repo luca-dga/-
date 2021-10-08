@@ -9,7 +9,7 @@ Email: degennaroaquino@sustech.edu.cn <br>
 
 
 <div>
-  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#employment">Employment</a> | <a href="#visiting-positions">Visiting positions</a> | <a href="#working-papers">Working papers</a>| 
+  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#employment">Employment</a> | <a href="#visiting-positions">Visiting positions</a> | <a href="#working-papers">Working papers</a> | 
   </div>
   <div>
   <a href="#publications">Publications</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
