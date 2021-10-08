@@ -74,7 +74,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 <hr width="100%">
 
 ### **Publications**
-<li style="padding-bottom: 2px;">L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. <i><b> Advances in Neural Information Processing Systems 33 (NeurIPS 2020)</b></i>. &nmsp; <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank"> <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
+<li style="padding-bottom: 2px;">L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. <i><b> Advances in Neural Information Processing Systems 33 (NeurIPS 2020)</b></i>. &ensp; <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank"> <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
 <li style="padding-bottom: 2px;">C. Bernard, L. De Gennaro Aquino, L. Levante. Optimal annuity demand for general expected utility agents. Forthcoming in <i><b>Insurance: Mathematics and Economics</b></i>. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578370" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a>  </li>
 
