@@ -122,7 +122,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 &emsp; Italian (native), English (fluent), French (intermediate)
 
 <li><b>Passions and hobbies</b></li>
-&emsp; I am a committed fine diner and food traveler. I like Tom Waits, German Rieslings and apple pie. My biggest dream is to become a pianist. 
+&emsp; I am a committed fine diner and food traveler. I like Tom Waits, German Rieslings and apple pie. My 10-year goal is to write a book on culinary philosophy, life in general, and incoherence.
 
 <hr width="100%">
 
