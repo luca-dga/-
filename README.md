@@ -88,7 +88,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 
 <li style="padding-bottom: 2px;">L. De Gennaro Aquino, C. Bernard. Bounds on multi-asset derivatives via neural networks. <i><b>International Journal of Theoretical and Applied Finance</b></i>, 23(8), 2020. &ensp; <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
-<li style="padding-bottom: 2px;">L. De Gennaro Aquino, C. Bernard. Semi-analytical prices for lookback and barrier options under the Heston model. <i><b>Decisions in Economics and Finance</b></i>, 42(2), 2020. &ensp; <a href="https://www.dropbox.com/s/s8gid3ndumj8mcf/De%20Gennaro%20Aquino%20and%20Bernard%20-%20Semi-analytical%20prices%20for%20lookback%20and%20barrier%20options%20under%20the%20Heston%20model.pdf?dl=0" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
+<li style="padding-bottom: 2px;">L. De Gennaro Aquino, C. Bernard. Semi-analytical prices for lookback and barrier options under the Heston model. <i><b>Decisions in Economics and Finance</b></i>, 42(2), 2020. &ensp; <a href="https://www.dropbox.com/s/s8gid3ndumj8mcf/De%20Gennaro%20Aquino%20and%20Bernard%20-%20Semi-analytical%20prices%20for%20lookback%20and%20barrier%20options%20under%20the%20Heston%20model.pdf?dl=0" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> <a href="https://link.springer.com/article/10.1007%2Fs10203-021-00360-9" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> correction </a> </li>
 
 <hr width="100%">
 
