@@ -36,12 +36,12 @@ Portfolio optimization; decision theory; computational finance; machine learning
 ### **Education**
 
  <li><b>PhD in Mathematical Finance</b>, 09/2017 - 11/2020  <br></li> 
- &emsp; Grenoble Ecole de Management, Grenoble, France - Department of Law, Accounting and Finance <br>
+ &emsp; Grenoble Ecole de Management, Grenoble, France - Department of Accounting, Law and Finance <br>
  &emsp; Advisor: Prof. <a href="http://www.carole.bernard.free.fr/" target="_blank">Carole Bernard</a> <br>
  &emsp; Thesis: *Robust decision making, model uncertainty and computational optimal transport*
 
 <li><b>MPhil in Business Administration</b> (specialization in Finance), 09/2017 - 09/2019 </li> 
-&emsp; Grenoble Ecole de Management, Grenoble, France - Department of Law, Accounting and Finance 	  
+&emsp; Grenoble Ecole de Management, Grenoble, France - Department of Accounting, Law and Finance 	  
 
 <li><b>MSc in Mathematical Finance</b> (with Distinction), 09/2016 - 09/2017 </li>
 &emsp; Loughborough University, Loughborough, United Kingdom - Department of Mathematical Sciences <br>
@@ -63,7 +63,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 &emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering
 
 <li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li> 
-&emsp; Grenoble Ecole de Management, Grenoble, France - Department of Law, Accounting and Finance 	  
+&emsp; Grenoble Ecole de Management, Grenoble, France - Department of Accounting, Law and Finance 	  
 
 <hr width="100%">
 
