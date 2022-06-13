@@ -67,7 +67,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 
 <hr width="100%">
 
-### **Visiting positions**
+### **Visitings**
 
 <li>University of Konstanz, Konstanz, Germany - Department of Mathematics, 09/2019 - 10/2019, invited by Prof. Michael Kupper and Stephan Eckstein </li>
 
