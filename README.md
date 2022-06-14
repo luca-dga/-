@@ -93,7 +93,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 <hr width="100%">
 
 ### **Talks and presentations**
-<li>Bachelier World Congress, virtual, 06/2022</li>
+<li>World Congress of the Bachelier Finance Society, virtual, 06/2022</li>
 <li>SUSTech Workshop on Financial Engineering, Southern University of Science and Technology, China, 12/2021</li>
 <li>SIAM Conference on Financial Mathematics and Engineering, virtual, 06/2021</li>
 <li>PKU-NUS Annual International Conference on Quantitative Finance and Economics, virtual, 05/2021</li>
