@@ -69,6 +69,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 
 ### **Visitings**
 
+<li>Chinese University of Hong Kong, Hong Kong SAR - Department of Systems Engineering and Engineering Management, 06/2022, invited by Prof. Xuedong He </li>
 <li>University of Konstanz, Konstanz, Germany - Department of Mathematics, 09/2019 - 10/2019, invited by Prof. Michael Kupper and Stephan Eckstein </li>
 
 <hr width="100%">
