@@ -59,6 +59,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 ### **Employment**
 <li><b>Postdoctoral Fellow </b>, 11/2020 - 08/2022 </li>
 &emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering
+&emsp; Advisor: Prof. <a href="https://sites.google.com/view/morisstrub/home" target="_blank">Moris Simon Strub</a> <br>
 
 <li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li> 
 &emsp; Grenoble Ecole de Management, Grenoble, France - Department of Accounting, Law and Finance 	  
