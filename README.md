@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
-Southern University of Science and Technology <br>
-Department of Information Systems and Management Engineering <br>
-Taizhou Building, 1088 Xueyuan Avenue, Nanshan District, Shenzhen 518055, Guangdong, China <br>
-Office: 501-1-4 <br>
-Phone: +86 18129875351 <br>
-Email: degennaroaquino@sustech.edu.cn <br>
+University of Copenhagen <br>
+Department of Mathematical Sciences <br>
+Universitetsparken 5, 2100 Copenhagen Ø <br>
+Office: 4-02-09 <br>
+Phone: +45 71536564 <br>
+Email: ldga@math.ku.dk <br>
 
 
 <div>
@@ -21,10 +21,8 @@ Email: degennaroaquino@sustech.edu.cn <br>
 
 <!--- <hr width="25%"> --->   
 ### **Current position**
- <b>Postdoctoral Fellow</b>, 11/2020 - present  <br>
- Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering <br>
- Advisor: Prof. <a href="https://sites.google.com/view/morisstrub/home" target="_blank">Moris Simon Strub</a> <br>
- 
+ <b>Postdoctoral Fellow</b>, 09/2022 - present  <br>
+ University of Copenhagen - Department of Mathematical Sciences <br>
  
 <hr width="80%">
 
@@ -59,7 +57,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 <hr width="100%">
 
 ### **Employment**
-<li><b>Postdoctoral Fellow </b>, 11/2020 - present </li>
+<li><b>Postdoctoral Fellow </b>, 11/2020 - 08/2022 </li>
 &emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering
 
 <li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li> 
