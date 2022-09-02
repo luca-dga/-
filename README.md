@@ -87,6 +87,8 @@ Portfolio optimization; decision theory; computational finance; machine learning
 
 <li> Reference-dependent preferences, asset pricing, and social interactions. With Enrico De Giorgi, Youcheng Lou, and Moris Simon Strub. </li>
 
+<hr width="100%">
+
 ### **Publications**
 <li style="padding-bottom: 2px;">L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. <i><b> Advances in Neural Information Processing Systems 33 (NeurIPS 2020)</b></i>. &ensp; <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank"> <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
