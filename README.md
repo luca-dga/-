@@ -12,7 +12,7 @@ Email: ldga@math.ku.dk <br>
   <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#employment">Employment</a> | <a href="#visitings">Visitings</a> | <a href="#working-papers">Working papers</a> | 
   </div>
   <div>
-  <a href="#publications">Publications</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
+  <a href="#in-progress">In progress</a> <a href="#publications">Publications</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
   </div>
 
 <hr width="80%">
@@ -80,6 +80,12 @@ Portfolio optimization; decision theory; computational finance; machine learning
 <li> C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Optimal multivariate financial decision making. Submitted, 2021. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931992" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
 <hr width="100%">
+
+### **In progress**
+
+<li> Asset pricing with gain-loss utility in consumption. With Moris Simon Strub, Xuedong He, and Xuedong He. </li>
+
+<li> Reference-dependent preferences, asset pricing, and social interactions. With Enrico De Giorgi, Youcheng Lou, and Moris Simon Strub. </li>
 
 ### **Publications**
 <li style="padding-bottom: 2px;">L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. <i><b> Advances in Neural Information Processing Systems 33 (NeurIPS 2020)</b></i>. &ensp; <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank"> <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
