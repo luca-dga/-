@@ -83,7 +83,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 
 ### **In progress**
 
-<li> Asset pricing with gain-loss utility in consumption. With Moris Simon Strub, Xuedong He, and Yuting Yang. </li>
+<li> Asset pricing with gain-loss utility in consumption. With Xuedong He, Moris Simon Strub, and Yuting Yang. </li>
 
 <li> Reference-dependent preferences, asset pricing, and social interactions. With Enrico De Giorgi, Youcheng Lou, and Moris Simon Strub. </li>
 
