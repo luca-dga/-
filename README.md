@@ -3,7 +3,7 @@
 University of Copenhagen <br>
 Department of Mathematical Sciences <br>
 Universitetsparken 5, 2100 Copenhagen Ø <br>
-Office: 4-02-09 <br>
+Office: 772-4-2-09 <br>
 Phone: +45 71536564 <br>
 Email: ldga@math.ku.dk <br>
 
