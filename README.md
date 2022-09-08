@@ -114,6 +114,8 @@ Portfolio optimization; decision theory; computational finance; machine learning
 <hr width="100%">
 
 ### **Teaching**
+<li> University of Copenhagen</li>
+&emsp; - <i>Consumption-Investment Problems under Lifetime Uncertainty</i>, MSc in Actuarial Mathematics, 09/2022 - 10/2022 <br>
 
 <li>Grenoble Ecole de Management</li>
 &emsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Paris, 09/2020<br>
