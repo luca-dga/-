@@ -22,7 +22,7 @@ Email: ldga@math.ku.dk <br>
 <!--- <hr width="25%"> --->   
 ### **Current position**
  <b>Postdoctoral Fellow</b>, 09/2022 - present  <br>
- University of Copenhagen - Department of Mathematical Sciences <br>
+ University of Copenhagen, Copenhagen, Denmark - Department of Mathematical Sciences <br>
  
 <hr width="80%">
 
