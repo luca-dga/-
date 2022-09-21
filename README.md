@@ -77,8 +77,6 @@ Portfolio optimization; decision theory; computational finance; machine learning
 
 <li> L. De Gennaro Aquino, D. Sornette, M. S. Strub. Portfolio selection with exploration of new investment opportunities. Submitted, 2021. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3625492" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li> 
 
-<li> C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Optimal multivariate financial decision making. Submitted, 2021. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931992" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
-
 <hr width="100%">
 
 ### **In progress**
@@ -90,6 +88,8 @@ Portfolio optimization; decision theory; computational finance; machine learning
 <hr width="100%">
 
 ### **Publications**
+<li> C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Optimal multivariate financial decision making. Accepted at <i><b>European Journal of Operational Research></b></i>, 2022. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931992" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
+
 <li style="padding-bottom: 2px;">L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. <i><b> Advances in Neural Information Processing Systems 33 (NeurIPS 2020)</b></i>. &ensp; <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank"> <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
 <li style="padding-bottom: 2px;">C. Bernard, L. De Gennaro Aquino, L. Levante. Optimal annuity demand for general expected utility agents. <i><b>Insurance: Mathematics and Economics</b></i>, 101(A), 2021. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578370" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a>  </li>
