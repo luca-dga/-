@@ -9,7 +9,7 @@ Email: ldga@math.ku.dk <br>
 
 
 <div>
-  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#employment">Employment</a> | <a href="#visitings">Visitings</a> | <a href="#working-papers">Working papers</a> | 
+  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#past-employment">Past employment</a> | <a href="#visitings">Visitings</a> | <a href="#working-papers">Working papers</a> | 
   </div>
   <div>
   <a href="#in-progress">In progress</a> | <a href="#publications">Publications</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
@@ -56,7 +56,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
    
 <hr width="100%">
 
-### **Employment**
+### **Past employment**
 <li><b>Postdoctoral Fellow </b>, 11/2020 - 08/2022 </li>
 &emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering <br>
 &emsp; Advisor: Prof. <a href="https://sites.google.com/view/morisstrub/home" target="_blank">Moris Simon Strub</a> <br>
@@ -101,6 +101,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 <hr width="100%">
 
 ### **Talks and presentations**
+<li>Seminar in Insurance and Economics, University of Copenhagen, Denmark, 01/2023</li>
 <li>World Congress of the Bachelier Finance Society, virtual, 06/2022</li>
 <li>SUSTech Workshop on Financial Engineering, Southern University of Science and Technology, China, 12/2021</li>
 <li>SIAM Conference on Financial Mathematics and Engineering, virtual, 06/2021</li>
