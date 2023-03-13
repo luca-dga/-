@@ -9,7 +9,7 @@ Email: ldga@math.ku.dk <br>
 
 
 <div>
-  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#past-employment">Past employment</a> | <a href="#visitings">Visitings</a> | <a href="#working-papers">Working papers</a> | 
+  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#past-employment">Past employment</a> | <a href="#visitings">Visitings</a> |  
   </div>
   <div>
   <a href="#in-progress">In progress</a> | <a href="#publications">Publications</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
@@ -73,12 +73,6 @@ Portfolio optimization; decision theory; computational finance; machine learning
 
 <hr width="100%">
 
-### **Working papers**
-
-<li> L. De Gennaro Aquino, D. Sornette, M. S. Strub. Portfolio selection with exploration of new investment opportunities. Submitted, 2021. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3625492" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li> 
-
-<hr width="100%">
-
 ### **In progress**
 
 <li> Asset pricing with gain-loss utility in consumption. With Xuedong He, Moris Simon Strub, and Yuting Yang. </li>
@@ -88,6 +82,8 @@ Portfolio optimization; decision theory; computational finance; machine learning
 <hr width="100%">
 
 ### **Publications**
+<li> L. De Gennaro Aquino, D. Sornette, M. S. Strub. Portfolio selection with exploration of new investment opportunities. Forthcoming at <i><b>European Journal of Operational Research</b></i>, 2023. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3625492" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li> 
+
 <li> C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Optimal multivariate financial decision making. <i><b>European Journal of Operational Research</b></i>, 307(1), 2023. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931992" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
 <li style="padding-bottom: 2px;">L. De Gennaro Aquino, S. Eckstein. MinMax methods for optimal transport and beyond: regularization, approximation and numerics. <i><b> Advances in Neural Information Processing Systems 33 (NeurIPS 2020)</b></i>. &ensp; <a href="https://arxiv.org/pdf/2010.11502.pdf" target="_blank"> <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
