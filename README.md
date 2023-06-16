@@ -131,7 +131,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 &emsp; Italian (native), English (fluent), French (intermediate)
 
 <li><b>Passions and hobbies</b></li>
-&emsp; I am a committed fine diner and food traveler. I like Tom Waits, German Rieslings and apple pie. My biggest dream is to become a pianist, but I don't play the piano. I play table tennis though. 
+&emsp; I am a committed fine diner and food traveler. I like Tom Waits, German Rieslings and apple pie. My biggest dream is to become a pianist, but I don't play the piano. I play table tennis. 
 
 <hr width="100%">
 
