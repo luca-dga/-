@@ -47,12 +47,12 @@ Portfolio optimization; decision theory; computational finance; machine learning
 &emsp; Thesis: *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
 
 <li><b>MSc in Finance and Insurance</b> (with Honors), 10/2013 - 07/2016 </li>
-&emsp; University of Rome “La Sapienza”, Rome, Italy - Faculty of Economics <br>
+&emsp; University of Rome “La Sapienza”, Rome, Italy - Department of Methods and Models for Economics, Territory and Finance <br>
 &emsp; Advisor: Prof. Maria Chiarolla <br>
 &emsp; Thesis: *Credit-linked notes with counterparty risk under the generalised Fong-Vasicek two-factor interest rate model*
     
 <li><b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li> 
-&emsp; University of Rome “La Sapienza”, Rome, Italy - Faculty of Economics
+&emsp; University of Rome “La Sapienza”, Rome, Italy - Department of Methods and Models for Economics, Territory and Finance
    
 <hr width="100%">
 
