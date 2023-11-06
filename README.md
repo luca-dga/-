@@ -82,7 +82,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 <hr width="100%">
 
 ### **Publications**
-<li> L. De Gennaro Aquino, D. Sornette, M. S. Strub. Portfolio selection with exploration of new investment assets. <i><b>European Journal of Operational Research</b></i>, 310(2), 2023. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3625492" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li> 
+<li> L. De Gennaro Aquino, D. Sornette, M. S. Strub. Portfolio selection with exploration of new investment assets. <i><b>European Journal of Operational Research</b></i>, 310(2), 2023. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3625492" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a>  <a href="https://www.sciencedirect.com/science/article/pii/S0377221723002230" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> DOI </a>  </li> 
 
 <li> C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Optimal multivariate financial decision making. <i><b>European Journal of Operational Research</b></i>, 307(1), 2023. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931992" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
