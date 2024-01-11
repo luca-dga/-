@@ -96,6 +96,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 <hr width="100%">
 
 ### **Talks and presentations**
+<li>Research seminar, Reykjavik University, Iceland, 01/2024</li>
 <li>Seminar in Insurance and Economics, University of Copenhagen, Denmark, 01/2023</li>
 <li>World Congress of the Bachelier Finance Society, virtual, 06/2022</li>
 <li>SUSTech Workshop on Financial Engineering, Southern University of Science and Technology, China, 12/2021</li>
