@@ -9,10 +9,10 @@ Email: ldga@math.ku.dk <br>
 
 
 <div>
-  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a> | <a href="#past-employment">Past employment</a> | <a href="#visitings">Visitings</a> |  
+  <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a>     <a href="#in-progress">In progress</a> | <a href="#publications">Publications</a> |
   </div>
   <div>
-  <a href="#in-progress">In progress</a> | <a href="#publications">Publications</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
+ | <a href="#past-employment">Past employment</a> | <a href="#visitings">Longer visitings</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
   </div>
 
 <hr width="80%">
@@ -56,26 +56,9 @@ Portfolio optimization; decision theory; computational finance; machine learning
    
 <hr width="100%">
 
-### **Past employment**
-<li><b>Postdoctoral Fellow </b>, 11/2020 - 08/2022 </li>
-&emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering <br>
-&emsp; Advisor: Prof. <a href="https://sites.google.com/view/morisstrub/home" target="_blank">Moris Simon Strub</a> <br>
-
-<li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li> 
-&emsp; Grenoble Ecole de Management, Grenoble, France - Department of Accounting, Law and Finance 	  
-
-<hr width="100%">
-
-### **Longer visitings**
-
-<li>Chinese University of Hong Kong, Hong Kong SAR - Department of Systems Engineering and Engineering Management, invited by Prof. Xuedong He, 06/2022 (2 weeks)  </li>
-<li>University of Konstanz, Konstanz, Germany - Department of Mathematics, invited by Prof. Michael Kupper and Stephan Eckstein, 09/2019 - 10/2019 (6 weeks) </li>
-
-<hr width="100%">
-
 ### **In progress**
 
-<li> Asset pricing with gain-loss utility in consumption. With Xuedong He, Moris Simon Strub, and Yuting Yang. </li>
+<li> Asset pricing with gain-loss utility in consumption. With Xuedong He, Moris Simon Strub, and Yuting Yang. </li> &ensp; <a https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4696530 " target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> 
 
 <li> Reference-dependent preferences, asset pricing and social interactions. With Enrico De Giorgi, Youcheng Lou, and Moris Simon Strub. </li>
 
@@ -93,6 +76,24 @@ Portfolio optimization; decision theory; computational finance; machine learning
 <li style="padding-bottom: 2px;">L. De Gennaro Aquino, C. Bernard. Bounds on multi-asset derivatives via neural networks. <i><b>International Journal of Theoretical and Applied Finance</b></i>, 23(8), 2020. &ensp; <a href="https://arxiv.org/pdf/1911.05523.pdf" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a>  &ensp; <a href="https://www.worldscientific.com/doi/epdf/10.1142/S0219024920500508" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> DOI </a> </li>
 
 <li style="padding-bottom: 2px;">L. De Gennaro Aquino, C. Bernard. Semi-analytical prices for lookback and barrier options under the Heston model. <i><b>Decisions in Economics and Finance</b></i>, 42(2), 2019. &ensp; <a href="https://www.dropbox.com/s/s8gid3ndumj8mcf/De%20Gennaro%20Aquino%20and%20Bernard%20-%20Semi-analytical%20prices%20for%20lookback%20and%20barrier%20options%20under%20the%20Heston%20model.pdf?dl=0" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> &ensp; <a href="https://link.springer.com/article/10.1007/s10203-019-00254-x" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> DOI </a> &ensp;  <a href="https://link.springer.com/article/10.1007%2Fs10203-021-00360-9" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> correction </a> </li>
+
+<hr width="100%">
+
+### **Past employment**
+<li><b>Postdoctoral Fellow </b>, 11/2020 - 08/2022 </li>
+&emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering <br>
+&emsp; Advisor: Prof. <a href="https://sites.google.com/view/morisstrub/home" target="_blank">Moris Simon Strub</a> <br>
+
+<li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li> 
+&emsp; Grenoble Ecole de Management, Grenoble, France - Department of Accounting, Law and Finance 	  
+
+<hr width="100%">
+
+### **Longer visitings**
+
+<li>Chinese University of Hong Kong, Hong Kong SAR - Department of Systems Engineering and Engineering Management, invited by Prof. Xuedong He, 06/2022 (2 weeks)  </li>
+<li>University of Konstanz, Konstanz, Germany - Department of Mathematics, invited by Prof. Michael Kupper and Stephan Eckstein, 09/2019 - 10/2019 (6 weeks) </li>
+
 <hr width="100%">
 
 ### **Talks and presentations**
