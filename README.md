@@ -58,7 +58,7 @@ Portfolio optimization; decision theory; computational finance; machine learning
 
 ### **In progress**
 
-<li> Reference-dependent asset pricing with a stochastic consumption-dividend ratio. With Xuedong He, Moris Simon Strub, and Yuting Yang.  &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4696530 " target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
+<li> Reference-dependent asset pricing with a stochastic consumption-dividend ratio. With Xuedong He, Moris Simon Strub, and Yuting Yang.  &ensp; <a href="https://arxiv.org/abs/2401.12856" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
 <hr width="100%">
 
