@@ -8,7 +8,9 @@ Phone: +45 71536564 <br>
 Email: ldga@math.ku.dk <br>
 
 
-<div> </div>
+<div>
+
+</div>
 
 
 <div>
