@@ -139,6 +139,8 @@ Portfolio optimization; decision theory; computational finance; machine learning
 
 ### **External links**
 
+<div>
 | <a href="https://scholar.google.it/citations?user=Jk0lgM4AAAAJ&hl=it&oi=ao" target="_blank">Google Scholar</a> | 
 <a href="https://www.researchgate.net/profile/Luca_De_Gennaro_Aquino" target="_blank">ResearchGate</a> |
 <a href="https://orcid.org/0000-0001-5377-5385" target="_blank">ORCID</a> |
+</div>
