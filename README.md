@@ -12,7 +12,7 @@ Email: ldga@math.ku.dk <br>
  | <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a>  |   <a href="#in-progress">In progress</a> | <a href="#publications">Publications</a> | <a href="#past-employment">Past employment</a> |
   </div>
   <div>
-  | <a href="#visitings">Longer visitings</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
+  | <a href="#longer-visitings">Longer visitings</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
   </div>
 
 <hr width="80%">
