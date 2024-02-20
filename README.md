@@ -28,7 +28,7 @@ Email: ldga@math.ku.dk <br>
 <hr width="100%">
 
 ### **Research interests**
-Portfolio optimization; decision theory; computational finance; machine learning
+Portfolio optimization; decision theory; asset pricing; time-inconsistency
 
 <hr width="100%">
 
