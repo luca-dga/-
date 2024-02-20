@@ -23,7 +23,7 @@ Email: ldga@math.ku.dk <br>
  <b>Postdoctoral Fellow</b>, 09/2022 - present  <br>
  University of Copenhagen, Copenhagen, Denmark - Department of Mathematical Sciences <br>
 
-<span style="color:green">**From 08/2024, I will join Reykjavik University, Iceland, as an Assistant Professor at the Department of Engineering.**</span>
+<span style="color:darkgreen">**From 08/2024, I will join Reykjavik University, Iceland, as an Assistant Professor at the Department of Engineering.**</span>
 
 <hr width="100%">
 
