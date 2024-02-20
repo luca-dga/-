@@ -7,10 +7,6 @@ Office: 772-04-3-06 <br>
 Phone: +45 71536564 <br>
 Email: ldga@math.ku.dk <br>
 
-
-
-
-
 <div>
  | <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a>  |   <a href="#in-progress">In progress</a> | <a href="#publications">Publications</a> | <a href="#past-employment">Past employment</a> |
   </div>
@@ -26,8 +22,10 @@ Email: ldga@math.ku.dk <br>
 ### **Current position**
  <b>Postdoctoral Fellow</b>, 09/2022 - present  <br>
  University of Copenhagen, Copenhagen, Denmark - Department of Mathematical Sciences <br>
- 
-<hr width="73%">
+
+<span style="color:green">**From 08/2024, I will join Reykjavik University, Iceland, as an Assistant Professor at the Department of Engineering.**</span>
+
+<hr width="100%">
 
 ### **Research interests**
 Portfolio optimization; decision theory; computational finance; machine learning
