@@ -8,7 +8,7 @@ Phone: +45 71536564 <br>
 Email: ldga@math.ku.dk <br>
 
 <div>
- | <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a>  |   <a href="#academic-positions">Academic positions</a> | <a href="#in-progress">In progress</a> | <a href="#publications">Publications</a> | 
+ | <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a>  |   <a href="#academic-positions">Academic positions</a> | <a href="#work-in-progress">Work in progress</a> | <a href="#publications">Publications</a> | 
   </div>
   <div>
   | <a href="#longer-visitings">Longer visitings</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
@@ -67,7 +67,7 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 
 <hr width="100%">
 
-### **In progress**
+### **Work in progress**
 
 <li> Reference-dependent asset pricing with a stochastic consumption-dividend ratio. With Xuedong He, Moris Simon Strub, and Yuting Yang.  &ensp; <a href="https://arxiv.org/abs/2401.12856" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
