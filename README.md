@@ -119,11 +119,11 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 <li>Grenoble Ecole de Management</li>
 &emsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Paris, 09/2020<br>
 &emsp; - <i>International Financial Risk Management</i>, Master in International Business - Paris, 04/2020 <br>
-&emsp; - <i>Advanced Quantitative Methods for Finance</i>, ESC 2A Programme Grande Ecole, 01/2020 - 03/2020<br>
-&emsp; - <i>International Financial Risk Management</i>, Master in International Business, 11/2019 - 12/2019<br>
+&emsp; - <i>Advanced Quantitative Methods for Finance</i>, ESC 2A Programme Grande Ecole - Grenoble, 01/2020 - 03/2020<br>
+&emsp; - <i>International Financial Risk Management</i>, Master in International Business - Grenoble, 11/2019 - 12/2019<br>
 &emsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Singapore, 10/2019<br>
-&emsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance, 09/2019<br>
-&emsp; - <i>Corporate Governance</i>, ESC 3A Programme Grande Ecole, 01/2019 - 02/2019<br>
+&emsp; - <i>Fundamentals of Excel and Statistics</i>, MSc Finance - Grenoble, 09/2019<br>
+&emsp; - <i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019<br>
 
 <hr width="100%">
 
