@@ -88,16 +88,18 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 <hr width="100%">
 
 ### **Longer visitings**
-
+<li>Johannes Kepler University Linz, Linz, Austria - Institute of Financial Mathematics and Applied Numbery Theory, invited by Prof. Sascha Desmettre, 06/2024 (2 weeks)  </li>
 <li>Chinese University of Hong Kong, Hong Kong SAR - Department of Systems Engineering and Engineering Management, invited by Prof. Xuedong He, 06/2022 (2 weeks)  </li>
 <li>University of Konstanz, Konstanz, Germany - Department of Mathematics, invited by Prof. Michael Kupper and Stephan Eckstein, 09/2019 - 10/2019 (6 weeks) </li>
 
 <hr width="100%">
 
 ### **Talks and presentations**
+<li>Bachelier World Congress, FGV EMAp, Rio de Janeiro, Brasil, 07/2024</li>
+<li>Research seminar, Johannes Kepler University Linz, Austria, 06/2024</li>
 <li>Research seminar, Reykjavik University, Iceland, 01/2024</li>
 <li>Seminar in Insurance and Economics, University of Copenhagen, Denmark, 01/2023</li>
-<li>World Congress of the Bachelier Finance Society, virtual, 06/2022</li>
+<li>Bachelier World Congress, virtual, 06/2022</li>
 <li>SUSTech Workshop on Financial Engineering, Southern University of Science and Technology, China, 12/2021</li>
 <li>SIAM Conference on Financial Mathematics and Engineering, virtual, 06/2021</li>
 <li>PKU-NUS Annual International Conference on Quantitative Finance and Economics, virtual, 05/2021</li>
