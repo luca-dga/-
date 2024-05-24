@@ -11,7 +11,7 @@ Email: ldga@math.ku.dk <br>
  | <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a>  |   <a href="#academic-positions">Academic positions</a> | <a href="#work-in-progress">Work in progress</a> | <a href="#publications">Publications</a> | 
   </div>
   <div>
-  | <a href="#longer-visitings">Longer visitings</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
+  | <a href="#longer-visitings">Longer visitings</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#refereeing">Refereeing</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
   </div>
 
 <hr width="73%">
@@ -125,6 +125,13 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 &emsp; - <i>Corporate Governance</i>, ESC 3A Programme Grande Ecole - Grenoble, 01/2019 - 02/2019<br>
 
 <hr width="100%">
+
+### **Refereeing**
+
+<i>Methodology and Computing in Applied Probability, Finance, IEEE Transactions on Information Theory, Scandinavian Actuarial Journal, Quantitative Finance, Economics and Business Letters, Neural Networks, Frontiers of Mathematical Finance</i>
+
+<hr width="100%">
+
 
 ### **Miscellaneous**
 
