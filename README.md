@@ -67,7 +67,7 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 <hr width="100%">
 
 ### **Work in progress**
-<li> Equilibrium control theory for Kihlstrom-Mirman preferences in continuous time. With Sascha Desmettre, Yevhen Havrylenko, and Mogens Steffensen. </li>
+<li> Equilibrium control theory for Kihlstrom-Mirman preferences in continuous time. With Sascha Desmettre, Yevhen Havrylenko, and Mogens Steffensen. </li> &ensp; <a href="https://arxiv.org/abs/2407.16525" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 <li> Reference-dependent asset pricing with a stochastic consumption-dividend ratio. With Xuedong He, Moris Simon Strub, and Yuting Yang.  &ensp; <a href="https://arxiv.org/abs/2401.12856" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
 <hr width="100%">
