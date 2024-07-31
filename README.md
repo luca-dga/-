@@ -6,7 +6,7 @@ Menntavegur 1, 102 Reykjavik, Iceland <br>
 Email: lucaa@ru.is <br>
 
 <div>
- | <a href="#academic-positions">Academic positions</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a>  | <a href="#work-in-progress">Work in progress</a> | <a href="#publications">Publications</a> | 
+ | <a href="#academic-positions">Academic positions</a>  | <a href="#education">Education</a> | <a href="#research-interests">Research interests</a> | <a href="#work-in-progress">Work in progress</a> | <a href="#publications">Publications</a> | 
   </div>
   <div>
   | <a href="#longer-visitings">Longer visitings</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#refereeing">Refereeing</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
