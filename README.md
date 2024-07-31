@@ -6,7 +6,7 @@ Menntavegur 1, 102 Reykjavik, Iceland <br>
 Email: lucaa@ru.is <br>
 
 <div>
- | <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> |   <a href="#academic-positions">Academic positions</a> | <a href="#education">Education</a>  | <a href="#work-in-progress">Work in progress</a> | <a href="#publications">Publications</a> | 
+ | <a href="#academic-positions">Academic positions</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a>  | <a href="#work-in-progress">Work in progress</a> | <a href="#publications">Publications</a> | 
   </div>
   <div>
   | <a href="#longer-visitings">Longer visitings</a> | <a href="#talks-and-presentations">Talks and presentations</a> | <a href="#teaching">Teaching</a> | <a href="#refereeing">Refereeing</a> | <a href="#miscellaneous">Miscellaneous</a> |  <a href="#external-links">External links</a> |
@@ -17,27 +17,19 @@ Email: lucaa@ru.is <br>
 <!--- <a href="https://raw.githubusercontent.com/luca-dga/-/master/CV_LucaDGA.pdf" target="_blank">Download CV</a>  --->
 
 <!--- <hr width="25%"> --->   
-### **Current position**
- <b>Assistant Professor</b>, 08/2024 - present  <br>
- Reykjavik University, Iceland - Department of Engineering <br>
+### **Academic positions**
+ <li><b>Assistant Professor</b>, 08/2024 - present  <br>
+&emsp;  Reykjavik University, Iceland - Department of Engineering <br>
 
-<hr width="100%">
-
-### **Research interests**
-Portfolio optimization; decision theory; asset pricing; time-inconsistency
-
-<hr width="100%">
-
-### **Previous positions**
-<li><b>Postdoctoral Fellow </b>, 09/2022 - 07/2024 </li>
+<li><b>Postdoctoral Fellow </b>, 09/2022 - 07/2024 </li> <br>
 &emsp; University of Copenhagen, Denmark - Department of Mathematical Sciences <br>
 
-<li><b>Postdoctoral Fellow </b>, 11/2020 - 08/2022 </li>
+<li><b>Postdoctoral Fellow </b>, 11/2020 - 08/2022 </li> <br>
 &emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering <br>
 &emsp; Advisor: Prof. <a href="https://sites.google.com/view/morisstrub/home" target="_blank">Moris Simon Strub</a> <br>
 
-<li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li> 
-&emsp; Grenoble Ecole de Management, France - Department of Accounting, Law and Finance 	  
+<li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li>  <br>
+&emsp; Grenoble Ecole de Management, France - Department of Accounting, Law and Finance <br>
 
 <hr width="100%">
 
@@ -63,6 +55,11 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 <li><b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li> 
 &emsp; University of Rome “La Sapienza”, Italy - Department of Methods and Models for Economics, Territory and Finance
    
+<hr width="100%">
+
+### **Research interests**
+Portfolio optimization; decision theory; asset pricing; time-inconsistency
+
 <hr width="100%">
 
 ### **Work in progress**
