@@ -1,11 +1,9 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
-University of Copenhagen <br>
-Department of Mathematical Sciences <br>
-Universitetsparken 5, 2100 Copenhagen Ø <br>
-Office: 772-04-3-06 <br>
-Phone: +45 71536564 <br>
-Email: ldga@math.ku.dk <br>
+Reykjavik University <br>
+Department of Engineering <br>
+Menntavegur 1, 102 Reykjavik, Iceland <br>
+Email: lucaa@ru.is <br>
 
 <div>
  | <a href="#current-position">Current position</a> | <a href="#research-interests">Research interests</a> | <a href="#education">Education</a>  |   <a href="#academic-positions">Academic positions</a> | <a href="#work-in-progress">Work in progress</a> | <a href="#publications">Publications</a> | 
@@ -20,10 +18,8 @@ Email: ldga@math.ku.dk <br>
 
 <!--- <hr width="25%"> --->   
 ### **Current position**
- <b>Postdoctoral Fellow</b>, 09/2022 - present  <br>
- University of Copenhagen, Copenhagen, Denmark - Department of Mathematical Sciences <br>
-
-<span style="color:darkgreen">**From 08/2024, I will join Reykjavik University, Iceland, as an Assistant Professor at the Department of Engineering.**</span>
+ <b>Assistant Professor</b>, 08/2024 - present  <br>
+ Reykjavik University, Iceland - Department of Engineering <br>
 
 <hr width="100%">
 
@@ -57,6 +53,9 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 <hr width="100%">
 
 ### **Academic positions**
+<li><b>Postdoctoral Fellow </b>, 09/2022 - 07/2024 </li>
+&emsp; University of Copenhagen, Copenhagen, Denmark - Department of Mathematical Sciences <br>
+
 <li><b>Postdoctoral Fellow </b>, 11/2020 - 08/2022 </li>
 &emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering <br>
 &emsp; Advisor: Prof. <a href="https://sites.google.com/view/morisstrub/home" target="_blank">Moris Simon Strub</a> <br>
@@ -112,6 +111,9 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 <hr width="100%">
 
 ### **Teaching**
+<li> Reykjavik University </li>
+&emsp; - <i>Securities</i>, BSc in Financial Engineering, 08/2024 - 11/2024 <br>
+
 <li> University of Copenhagen</li>
 &emsp; - [TA] <i>Continuous-time Finance 2</i>, MSc in Mathematics-Economics, 02/2024 - 04/2024 <br>
 &emsp; - [TA] <i>Operations Research 1</i>, BSc in Mathematics-Economics, 11/2023 - 01/2024 <br>
