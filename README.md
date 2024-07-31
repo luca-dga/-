@@ -28,7 +28,7 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 
 <hr width="100%">
 
-### **Academic positions**
+### **Previous positions**
 <li><b>Postdoctoral Fellow </b>, 09/2022 - 07/2024 </li>
 &emsp; University of Copenhagen, Denmark - Department of Mathematical Sciences <br>
 
