@@ -18,17 +18,17 @@ Email: lucaa@ru.is <br>
 
 <!--- <hr width="25%"> --->   
 ### **Academic positions**
- <li><b>Assistant Professor</b>, 08/2024 - present  <br>
+ <li><b>Assistant Professor</b>, 08/2024 - present </li>
 &emsp;  Reykjavik University, Iceland - Department of Engineering <br>
 
-<li><b>Postdoctoral Fellow </b>, 09/2022 - 07/2024 </li> <br>
+<li><b>Postdoctoral Fellow </b>, 09/2022 - 07/2024 </li> 
 &emsp; University of Copenhagen, Denmark - Department of Mathematical Sciences <br>
 
-<li><b>Postdoctoral Fellow </b>, 11/2020 - 08/2022 </li> <br>
+<li><b>Postdoctoral Fellow </b>, 11/2020 - 08/2022 </li> 
 &emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering <br>
 &emsp; Advisor: Prof. <a href="https://sites.google.com/view/morisstrub/home" target="_blank">Moris Simon Strub</a> <br>
 
-<li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li>  <br>
+<li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li>  
 &emsp; Grenoble Ecole de Management, France - Department of Accounting, Law and Finance <br>
 
 <hr width="100%">
