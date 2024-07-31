@@ -31,37 +31,37 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 ### **Education**
 
  <li><b>PhD in Mathematical Finance</b>, 09/2017 - 11/2020  <br></li> 
- &emsp; Grenoble Ecole de Management, Grenoble, France - Department of Accounting, Law and Finance <br>
+ &emsp; Grenoble Ecole de Management, France - Department of Accounting, Law and Finance <br>
  &emsp; Advisor: Prof. <a href="http://www.carole.bernard.free.fr/" target="_blank">Carole Bernard</a> <br>
  &emsp; Thesis: *Robust decision making, model uncertainty and computational optimal transport*
 
 <li><b>MPhil in Business Administration</b> (specialization in Finance), 09/2017 - 09/2019 </li> 
-&emsp; Grenoble Ecole de Management, Grenoble, France - Department of Accounting, Law and Finance 	  
+&emsp; Grenoble Ecole de Management, France - Department of Accounting, Law and Finance 	  
 
 <li><b>MSc in Mathematical Finance</b> (with Distinction), 09/2016 - 09/2017 </li>
-&emsp; Loughborough University, Loughborough, United Kingdom - Department of Mathematical Sciences <br>
+&emsp; Loughborough University, United Kingdom - Department of Mathematical Sciences <br>
 &emsp; Advisor: Prof. József Lörinczi <br>
 &emsp; Thesis: *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
 
 <li><b>MSc in Finance and Insurance</b> (with Honors), 10/2013 - 07/2016 </li>
-&emsp; University of Rome “La Sapienza”, Rome, Italy - Department of Methods and Models for Economics, Territory and Finance <br>
+&emsp; University of Rome “La Sapienza”, Italy - Department of Methods and Models for Economics, Territory and Finance <br>
 &emsp; Advisor: Prof. Maria Chiarolla <br>
     
 <li><b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li> 
-&emsp; University of Rome “La Sapienza”, Rome, Italy - Department of Methods and Models for Economics, Territory and Finance
+&emsp; University of Rome “La Sapienza”, Italy - Department of Methods and Models for Economics, Territory and Finance
    
 <hr width="100%">
 
 ### **Academic positions**
 <li><b>Postdoctoral Fellow </b>, 09/2022 - 07/2024 </li>
-&emsp; University of Copenhagen, Copenhagen, Denmark - Department of Mathematical Sciences <br>
+&emsp; University of Copenhagen, Denmark - Department of Mathematical Sciences <br>
 
 <li><b>Postdoctoral Fellow </b>, 11/2020 - 08/2022 </li>
 &emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering <br>
 &emsp; Advisor: Prof. <a href="https://sites.google.com/view/morisstrub/home" target="_blank">Moris Simon Strub</a> <br>
 
 <li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li> 
-&emsp; Grenoble Ecole de Management, Grenoble, France - Department of Accounting, Law and Finance 	  
+&emsp; Grenoble Ecole de Management, France - Department of Accounting, Law and Finance 	  
 
 <hr width="100%">
 
@@ -87,9 +87,9 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 <hr width="100%">
 
 ### **Longer visitings**
-<li>Johannes Kepler University Linz, Linz, Austria - Institute of Financial Mathematics and Applied Numbery Theory, invited by Prof. Sascha Desmettre, 06/2024 (2 weeks)  </li>
+<li>Johannes Kepler University Linz, Austria - Institute of Financial Mathematics and Applied Numbery Theory, invited by Prof. Sascha Desmettre, 06/2024 (2 weeks)  </li>
 <li>Chinese University of Hong Kong, Hong Kong SAR - Department of Systems Engineering and Engineering Management, invited by Prof. Xuedong He, 06/2022 (2 weeks)  </li>
-<li>University of Konstanz, Konstanz, Germany - Department of Mathematics, invited by Prof. Michael Kupper and Stephan Eckstein, 09/2019 - 10/2019 (6 weeks) </li>
+<li>University of Konstanz, Germany - Department of Mathematics, invited by Prof. Michael Kupper and Stephan Eckstein, 09/2019 - 10/2019 (6 weeks) </li>
 
 <hr width="100%">
 
