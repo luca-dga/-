@@ -136,10 +136,10 @@ Methodology and Computing in Applied Probability, Finance, IEEE Transactions on 
 
 ### **Miscellaneous**
 
-<li><b>Languages</b></li>
+<li>Languages</li>
 &emsp; Italian (native), English (fluent), French (intermediate, but rusty)
 
-<li><b>Passions and hobbies</b></li>
+<li>Passions and hobbies</li>
 &emsp; I am a committed fine diner and food traveler. I like Tom Waits, German Rieslings and apple pie. I play table tennis. 
 
 <hr width="100%">
