@@ -18,7 +18,7 @@ Email: lucaa@ru.is <br>
 
 <!--- <hr width="25%"> --->   
 ### **Academic positions**
- <li><b>Assistant Professor</b>, 08/2024 - present </li>
+ <li>Assistant Professor, 08/2024 - present </li>
 &emsp;  Reykjavik University, Iceland - Department of Engineering <br>
 
 <li><b>Postdoctoral Fellow </b>, 09/2022 - 07/2024 </li> 
