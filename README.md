@@ -21,38 +21,38 @@ Email: lucaa@ru.is <br>
  <li>Assistant Professor, 08/2024 - present </li>
 &emsp;  Reykjavik University, Iceland - Department of Engineering <br>
 
-<li><b>Postdoctoral Fellow </b>, 09/2022 - 07/2024 </li> 
+<li>Postdoctoral Fellow, 09/2022 - 07/2024 </li> 
 &emsp; University of Copenhagen, Denmark - Department of Mathematical Sciences <br>
 
-<li><b>Postdoctoral Fellow </b>, 11/2020 - 08/2022 </li> 
+<li>Postdoctoral Fellow, 11/2020 - 08/2022 </li> 
 &emsp; Southern University of Science and Technology, Shenzhen, China - Department of Information Systems and Management Engineering <br>
 &emsp; Advisor: Prof. <a href="https://sites.google.com/view/morisstrub/home" target="_blank">Moris Simon Strub</a> <br>
 
-<li><b>Research Assistant and Lecturer </b>, 09/2017 - 11/2020 </li>  
+<li>Research Assistant and Lecturer, 09/2017 - 11/2020 </li>  
 &emsp; Grenoble Ecole de Management, France - Department of Accounting, Law and Finance <br>
 
 <hr width="100%">
 
 ### **Education**
 
- <li><b>PhD in Mathematical Finance</b>, 09/2017 - 11/2020  <br></li> 
+ <li>PhD in Mathematical Finance, 09/2017 - 11/2020  <br></li> 
  &emsp; Grenoble Ecole de Management, France - Department of Accounting, Law and Finance <br>
  &emsp; Advisor: Prof. <a href="http://www.carole.bernard.free.fr/" target="_blank">Carole Bernard</a> <br>
  &emsp; Thesis: *Robust decision making, model uncertainty and computational optimal transport*
 
-<li><b>MPhil in Business Administration</b> (specialization in Finance), 09/2017 - 09/2019 </li> 
+<li>MPhil in Business Administration (specialization in Finance), 09/2017 - 09/2019 </li> 
 &emsp; Grenoble Ecole de Management, France - Department of Accounting, Law and Finance 	  
 
-<li><b>MSc in Mathematical Finance</b> (with Distinction), 09/2016 - 09/2017 </li>
+<li>MSc in Mathematical Finance (with Distinction), 09/2016 - 09/2017 </li>
 &emsp; Loughborough University, United Kingdom - Department of Mathematical Sciences <br>
 &emsp; Advisor: Prof. József Lörinczi <br>
 &emsp; Thesis: *Long-time behaviour of Feller processes* (awarded as best thesis of AY 2016/2017 in Mathematical Sciences)
 
-<li><b>MSc in Finance and Insurance</b> (with Honors), 10/2013 - 07/2016 </li>
+<li>MSc in Finance and Insurance (with Honors), 10/2013 - 07/2016 </li>
 &emsp; University of Rome “La Sapienza”, Italy - Department of Methods and Models for Economics, Territory and Finance <br>
 &emsp; Advisor: Prof. Maria Chiarolla <br>
     
-<li><b>BSc in Banking, Insurance and Financial Markets</b>, 09/2010 - 10/2013 </li> 
+<li>BSc in Banking, Insurance and Financial Markets, 09/2010 - 10/2013 </li> 
 &emsp; University of Rome “La Sapienza”, Italy - Department of Methods and Models for Economics, Territory and Finance
    
 <hr width="100%">
