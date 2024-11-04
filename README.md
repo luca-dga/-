@@ -4,6 +4,7 @@ Reykjavik University <br>
 Department of Engineering <br>
 Menntavegur 1, 102 Reykjavik, Iceland <br>
 Email: lucaa@ru.is <br>
+Phone: +354 6878244
 
 <div>
  | <a href="#academic-positions">Academic positions</a>  | <a href="#education">Education</a> | <a href="#research-interests">Research interests</a> | <a href="#work-in-progress">Work in progress</a> | <a href="#publications">Publications</a> | 
