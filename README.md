@@ -92,6 +92,7 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 <hr width="100%">
 
 ### **Talks and presentations**
+<li> AMaMef Conference, University of Verona, Verona, Italy, 06/2025</li>
 <li>Bachelier World Congress, FGV EMAp, Rio de Janeiro, Brasil, 07/2024</li>
 <li>Research seminar, Johannes Kepler University Linz, Austria, 06/2024</li>
 <li>Research seminar, Reykjavik University, Iceland, 01/2024</li>
