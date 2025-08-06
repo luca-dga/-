@@ -145,7 +145,7 @@ Methodology and Computing in Applied Probability, Finance, IEEE Transactions on 
 &emsp; Italian (native), English (fluent), French (intermediate, but rusty)
 
 <li>Passions and hobbies</li>
-&emsp; I am a committed fine diner and food traveler. I like Tom Waits, German Rieslings and apple pie. I play table tennis. 
+&emsp; I enjoy fine dining and culinary travel. I like Tom Waits, German Rieslings and apple pie. I also play table tennis in the Icelandic national league.  
 
 <hr width="100%">
 
