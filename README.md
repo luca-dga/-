@@ -64,7 +64,7 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 <hr width="100%">
 
 ### **Work in progress**
-<li> Equilibrium investment under dynamic preference uncertainty. With Sascha Desmettre, Yevhen Havrylenko, and Mogens Steffensen. &ensp; <a href="https://arxiv.org/abs/2407.16525" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
+<li> Equilibrium investment under dynamic preference uncertainty. With Sascha Desmettre, Yevhen Havrylenko, and Mogens Steffensen. &ensp; <a href="https://arxiv.org/abs/2512.21149" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 <li> Investment and asset pricing with relative wealth concerns and multiple risky assets. With Enrico De Giorgi, Youcheng Lou, and Moris Simon Strub. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5363167" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 <li> Equilibrium control theory for Kihlstrom-Mirman preferences in continuous time. With Sascha Desmettre, Yevhen Havrylenko, and Mogens Steffensen. &ensp; <a href="https://arxiv.org/abs/2407.16525" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 <li> Reference-dependent asset pricing with a stochastic consumption-dividend ratio. With Xuedong He, Moris Simon Strub, and Yuting Yang.  &ensp; <a href="https://arxiv.org/abs/2401.12856" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
