@@ -65,13 +65,17 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 
 ### **Work in progress**
 <li> Equilibrium investment under dynamic preference uncertainty. With Sascha Desmettre, Yevhen Havrylenko, and Mogens Steffensen. &ensp; <a href="https://arxiv.org/abs/2512.21149" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
-<li> Investment and asset pricing with relative wealth concerns and multiple risky assets. With Enrico De Giorgi, Youcheng Lou, and Moris Simon Strub. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5363167" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
+
 <li> Equilibrium control theory for Kihlstrom-Mirman preferences in continuous time. With Sascha Desmettre, Yevhen Havrylenko, and Mogens Steffensen. &ensp; <a href="https://arxiv.org/abs/2407.16525" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
+
 <li> Reference-dependent asset pricing with a stochastic consumption-dividend ratio. With Xuedong He, Moris Simon Strub, and Yuting Yang.  &ensp; <a href="https://arxiv.org/abs/2401.12856" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> </li>
 
 <hr width="100%">
 
 ### **Publications**
+<li> L. De Gennaro Aquino, E. De Giorgi, Y. Lou, M. S. Strub. Investment and asset pricing with relative wealth concerns and multiple risky assets. 
+ Forthcoming at <i>North American Journal of Economics and Finance </i>&ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5363167" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> &ensp; <a href="https://www.sciencedirect.com/science/article/pii/S0377221723002230" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> DOI </a> </li>
+ 
 <li> L. De Gennaro Aquino, D. Sornette, M. S. Strub. Portfolio selection with exploration of new investment assets. <i>European Journal of Operational Research</i>, 310(2), 2023. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3625492" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a>  &ensp; <a href="https://www.sciencedirect.com/science/article/pii/S0377221723002230" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> DOI </a>  </li> 
 
 <li> C. Bernard, L. De Gennaro Aquino, S. Vanduffel. Optimal multivariate financial decision making. <i>European Journal of Operational Research</i>, 307(1), 2023. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931992" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> &ensp; <a href="https://www.sciencedirect.com/science/article/pii/S0377221722007457" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> DOI </a>  </li>
