@@ -74,7 +74,7 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 
 ### **Publications**
 <li> L. De Gennaro Aquino, E. De Giorgi, Y. Lou, M. S. Strub. Investment and asset pricing with relative wealth concerns and multiple risky assets. 
-<i>North American Journal of Economics and Finance </i>, 84, 2026. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5363167" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> &ensp; <a href="https://authors.elsevier.com/sd/article/S1062-9408(26)00050-1" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> DOI </a> </li>
+<i>The North American Journal of Economics and Finance </i>, 84, 2026. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5363167" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a> &ensp; <a href="https://authors.elsevier.com/sd/article/S1062-9408(26)00050-1" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> DOI </a> </li>
  
 <li> L. De Gennaro Aquino, D. Sornette, M. S. Strub. Portfolio selection with exploration of new investment assets. <i>European Journal of Operational Research</i>, 310(2), 2023. &ensp; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3625492" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> preprint </a>  &ensp; <a href="https://www.sciencedirect.com/science/article/pii/S0377221723002230" target="_blank">  <i class="fas fa-project-diagram fa-xs"></i> DOI </a>  </li> 
 
