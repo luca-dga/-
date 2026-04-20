@@ -90,7 +90,8 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 
 <hr width="100%">
 
-### **Longer visitings**
+### **Visitings**
+<li>University of Lausanne, Switzerland - Department of Actuarial Science, invited by Prof. Yevhen Havrylenko, 12/2025 (1 week)  </li>
 <li>Johannes Kepler University Linz, Austria - Institute of Financial Mathematics and Applied Numbery Theory, invited by Prof. Sascha Desmettre, 06/2024 (2 weeks)  </li>
 <li>Chinese University of Hong Kong, Hong Kong SAR - Department of Systems Engineering and Engineering Management, invited by Prof. Xuedong He, 06/2022 (2 weeks)  </li>
 <li>University of Konstanz, Germany - Department of Mathematics, invited by Prof. Michael Kupper and Stephan Eckstein, 09/2019 - 10/2019 (6 weeks) </li>
