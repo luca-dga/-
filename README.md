@@ -99,6 +99,8 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 <hr width="100%">
 
 ### **Talks and presentations**
+<li>Bachelier World Congress, University of Bologna, Bologna, Italy, 07/2026</li>
+<li>Quantative Finance Conference, National University of Singapore, Singapore, 06/2026</li>
 <li> AMaMef Conference, University of Verona, Verona, Italy, 06/2025</li>
 <li>Bachelier World Congress, FGV EMAp, Rio de Janeiro, Brasil, 07/2024</li>
 <li>Research seminar, Johannes Kepler University Linz, Austria, 06/2024</li>
