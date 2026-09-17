@@ -144,7 +144,7 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 
 ### **Refereeing**
 
-Methodology and Computing in Applied Probability, Finance, IEEE Transactions on Information Theory, Scandinavian Actuarial Journal, Quantitative Finance, Economics and Business Letters, Neural Networks, Theory and Decision, Frontiers of Mathematical Finance, Computational Management Science, Siam Journal of Financial Mathematics, Operations Research, The Geneva Papers on Risk and Insurance
+Methodology and Computing in Applied Probability, Finance, IEEE Transactions on Information Theory, Scandinavian Actuarial Journal, Quantitative Finance, Economics and Business Letters, Neural Networks, Theory and Decision, Frontiers of Mathematical Finance, Computational Management Science, Siam Journal of Financial Mathematics, Operations Research, The Geneva Papers on Risk and Insurance - Issues and Practice
 
 <hr width="100%">
 
