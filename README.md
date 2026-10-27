@@ -121,7 +121,7 @@ Portfolio optimization; decision theory; asset pricing; time-inconsistency
 ### **Teaching**
 <li> Reykjavik University </li>
 &emsp; - <i>Securities</i>, BSc in Financial Engineering, 08/2026 - 11/2026 <br>
-&emsp; - <i>Probability and Stochastic Processes</i>, BSc in Financial Engineering, 01/2026 - 04/2026 <br>
+&emsp; - <i>Probability and Stochastic Processes</i>, BSc in Financial Engineering / BSc in Engineering Management, 01/2026 - 04/2026 <br>
 &emsp; - <i>Securities</i>, BSc in Financial Engineering, 08/2025 - 11/2025 <br>
 &emsp; - <i>Derivatives and Risk Management</i>, MSc in Financial Engineering, 01/2025 - 04/2025 <br>
 &emsp; - <i>Securities</i>, BSc in Financial Engineering, 08/2024 - 11/2024 <br>
